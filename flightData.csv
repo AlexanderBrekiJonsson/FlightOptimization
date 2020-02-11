@@ -1,0 +1,897 @@
+FlightNumber,departureInt,returnInt,avalibleInt,Price,departureLocation,destination,departureDate,returnDestination,returnDate
+1,26,392,393,75000,"Las Vegas, Nevada","Las Vegas, Nevada",3/12/2015 0:00,"Oakland, CA",3/12/2016 0:00
+2,26,392,393,34500,"Las Vegas, Nevada","Las Vegas, Nevada",3/12/2015 0:00,"Oakland, CA",3/12/2016 0:00
+3,202,202,203,45638,"Tallahassee, FL","Tallahassee, FL",9/4/2015 0:00,"College Station, TX",9/4/2015 0:00
+5,207,208,209,55517,"Gainesville, FL","Gainesville, FL",9/9/2015 0:00,"College Station, TX",9/10/2015 0:00
+4,207,207,208,9957,"Pittsburgh, PA","Worcester, MA",9/9/2015 0:00,"Pittsburgh, PA",9/9/2015 0:00
+6,214,214,215,6000,"Pittsburgh, PA","Fort Wayne, IN",9/16/2015 0:00,"Pittsburgh, PA",9/16/2015 0:00
+7,215,217,218,27000,"OXFORD, MS","GAINESVILLE, FL",9/17/2015 0:00,"GAINESVILLE, FL",9/19/2015 0:00
+8,217,217,218,39868,"Pittsburgh, PA","Iowa City, IA",9/19/2015 0:00,"Pittsburgh, PA",9/19/2015 0:00
+10,220,221,222,27105,"Cedar Rapids, IA","Iowa City, IA",9/22/2015 0:00,"Lincoln, NE",9/23/2015 0:00
+11,220,221,222,20990,Minneapolis. MN,"Columbus, OH",9/22/2015 0:00,"Minneapolis, MN",9/23/2015 0:00
+9,220,221,222,7200,"Pittsburgh, PA",Multiple Locations,9/22/2015 0:00,"Pittsburgh, PA",9/23/2015 0:00
+12,221,221,222,34400,"Lubbock, TX","Lubbock, TX",9/23/2015 0:00,"Oklahoma City, OK",9/23/2015 0:00
+14,222,225,226,54783,"Columbia, SC","Columbia, SC/Athens, GA",9/24/2015 0:00,"College Station, TX",9/27/2015 0:00
+16,222,223,224,40600,"Columbia, MO","Lexington, KY",9/24/2015 0:00,"Starkville, MS",9/25/2015 0:00
+15,222,224,225,31564,"Ypsilanti, MI","Ann Arbor, MI and East Lansing, MI",9/24/2015 0:00,"West Lafayette, IN ",9/26/2015 0:00
+17,222,223,224,28000,"OXFORD, MS","GAINESVILLE, FL",9/24/2015 0:00,"GAINESVILLE, FL",9/25/2015 0:00
+13,222,592,593,12419,"Scottsdale, AZ","Valentine, NE",9/24/2015 0:00,"Valentine, NE",9/28/2016 0:00
+19,224,225,226,42805,Newark NJ,Newark NJ,9/26/2015 0:00,Champaign IL ,9/27/2015 0:00
+18,224,225,226,30788,"COLUMBIA, SC","BATON ROUGE, LA",9/26/2015 0:00,"COLUMBIA, SC",9/27/2015 0:00
+20,227,228,229,33400,"Auburn, AL","Auburn, AL",9/29/2015 0:00,"College Station, TX",9/30/2015 0:00
+21,228,596,597,63176,"Minneapolis, MN","State College, PA",9/30/2015 0:00,"Minneapolis, MN",10/2/2016 0:00
+23,229,230,231,31993,"COLUMBIA, SC","OXFORD, MS",10/1/2015 0:00,"STARKVILLE, MS",10/2/2015 0:00
+22,229,230,231,24303,"State College, PA","State College, PA",10/1/2015 0:00,"Savoy, IL",10/2/2015 0:00
+24,229,230,231,23907,"Starkville, MS","Lexington, KY",10/1/2015 0:00,"Lexington, KY",10/2/2015 0:00
+25,229,230,231,23500,"OXFORD, MS","COLUMBIA, MO",10/1/2015 0:00,COLUMBIA MO,10/2/2015 0:00
+27,230,231,232,24303,"Savoy, IL","Columbus, OH",10/2/2015 0:00,"Lincoln, NE",10/3/2015 0:00
+26,230,232,233,23299,"Tallahassee, FL","Miami, FL",10/2/2015 0:00,"Anderson, SC",10/4/2015 0:00
+29,231,232,233,26600,"OXFORD, MS","COLLEGE STATION, TX",10/3/2015 0:00,"COLLEGE STATION, TX",10/4/2015 0:00
+28,231,234,235,11811,"Waukesha, WI","MIlwaukee, WI",10/3/2015 0:00,"Stillwater, OK",10/6/2015 0:00
+30,234,235,236,37523,"Lubbock, TX","Lubbock, TX",10/6/2015 0:00,"Lawrence, KS",10/7/2015 0:00
+31,234,235,236,29700,"Ames, IA","Ames, IA",10/6/2015 0:00,Manhattan KS,10/7/2015 0:00
+32,234,235,236,29700,Mornat,"Ames, IA",10/6/2015 0:00,Manhattan KS,10/7/2015 0:00
+33,234,235,236,27350,"Knoxville, TN","Baton Rouge, LA",10/6/2015 0:00,"Knoxville, TN",10/7/2015 0:00
+34,235,235,236,5200,"Pittsburgh, PA","Lynchburg, VA",10/7/2015 0:00,"Pittsburgh, PA",10/7/2015 0:00
+35,236,238,239,51800,"Gainesville, FL","Gainesville, FL",10/8/2015 0:00,"College Station, TX",10/10/2015 0:00
+37,236,237,238,34300,"Columbia, MO","Baton Rouge, LA",10/8/2015 0:00,"Columbia,MO",10/9/2015 0:00
+36,236,238,239,29771,"Columbia, MO","Starkville, MS",10/8/2015 0:00,"Tuscaloosa, AL",10/10/2015 0:00
+38,236,238,239,26500,"OXFORD, MS","FAYETTEVILLE, AR",10/8/2015 0:00,"FAYETTEVILLE, AR",10/10/2015 0:00
+39,237,239,240,53163,"Baltimore, MD","Trenton, NJ",10/9/2015 0:00,"Minneapolis, MN",10/11/2015 0:00
+40,237,238,239,41200,Champaigm Ill.,"Evanston, Ill.",10/9/2015 0:00,"Univ Park, Pa.",10/10/2015 0:00
+41,238,239,240,51989,"Auburn, AL","Auburn, AL",10/10/2015 0:00,"College Station, TX",10/11/2015 0:00
+42,238,239,240,28936,"COLUMBIA, SC","OXFORD, MS",10/10/2015 0:00,"COLUMBIA, SC",10/11/2015 0:00
+43,241,242,243,37576,"Waco, TX","Waco, TX",10/13/2015 0:00,"Lawrence, KS",10/14/2015 0:00
+47,243,245,246,67000,"South Bend, IN","State College, PA",10/15/2015 0:00,"South Bend, IN",10/17/2015 0:00
+46,243,244,245,54794,"Lexington, KY","Lexington, KY",10/15/2015 0:00,"College Station, TX",10/16/2015 0:00
+48,243,245,246,39756,"Columbus, OH and University Park, PA","Columbus, OH and State College, PA",10/15/2015 0:00,"West Lafayette, IN ",10/17/2015 0:00
+44,243,245,246,34655,"South Bend, IN","Blacksburg, VA",10/15/2015 0:00,"South Bend, IN",10/17/2015 0:00
+45,243,611,612,27213,"Minneapolis, MN","Columbus, OH",10/15/2015 0:00,"Minneapolis, MN",10/17/2016 0:00
+50,243,243,244,22332,"Yipsilanti, MI","Ann Arbor, MI",10/15/2015 0:00,"Baltimore, MD",10/15/2015 0:00
+49,243,244,245,18578,"Wheeling, IL","Evanston, IL",10/15/2015 0:00,"Savoy, IL",10/16/2015 0:00
+51,243,244,245,15500,"OXFORD, MS","COLUMBIA, MO",10/15/2015 0:00,"COLUMBIA, MO",10/16/2015 0:00
+53,244,245,246,26545,"State College, PA","State College, PA",10/16/2015 0:00,"Bloomington, IN",10/17/2015 0:00
+52,244,245,246,18578,"Savoy, IL","Champaign, IL",10/16/2015 0:00,"Lincoln, NE",10/17/2015 0:00
+54,245,246,247,26528,"Columbia, MO","Athens, GA",10/17/2015 0:00,"Columbia, MO",10/18/2015 0:00
+55,245,246,247,25000,"Knoxville, TN","Columbia, MO",10/17/2015 0:00,"Knoxville, TN",10/18/2015 0:00
+56,246,246,247,15500,"COLUMBIA, MO","FAYETTEVILLE, AR",10/18/2015 0:00,"OXFORD, MS",10/18/2015 0:00
+58,248,249,250,43470,"Manhattan, KS","Manhattan, KS",10/20/2015 0:00,"Austin, TX",10/21/2015 0:00
+57,248,249,250,27011,"Univ Park, Pa.","Ann Arbor, Mich.",10/20/2015 0:00,"Univ Park, Pa.",10/21/2015 0:00
+60,249,251,252,40691,"COLUMBIA, SC","GAINESVILLE, FL",10/21/2015 0:00,"BATON ROUGE, LA",10/23/2015 0:00
+59,249,250,251,31576,"Cincinnati, OH(LUK)","New York, NY",10/21/2015 0:00,"Cincinnati, OH(LUK)",10/22/2015 0:00
+62,250,251,252,36500,"Columbia, MO","Tuscaloosa, AL",10/22/2015 0:00,"Tuscaloosa, AL",10/23/2015 0:00
+61,250,251,252,24923,"Starkville, MS","Columbia, MO",10/22/2015 0:00,"Columbia, MO",10/23/2015 0:00
+63,250,251,252,20000,"OXFORD, MS","KNOXVILLE, TN",10/22/2015 0:00,"KNOXVILLE, TN",10/23/2015 0:00
+66,251,618,619,37387,"Lincoln, NE","Iowa City, IA",10/23/2015 0:00,"Minneapolis,MN",10/24/2016 0:00
+64,251,252,253,28636,"Univ Park, Pa.","East Lansing, Mich.",10/23/2015 0:00,"Univ Park, Pa.",10/24/2015 0:00
+65,251,252,253,25800,"Lubbock, TX","Lubbock, TX ",10/23/2015 0:00,Manhattan KS,10/24/2015 0:00
+67,251,253,254,20000,"KNOXVILLE, TN","COLLEGE STATION, TX",10/23/2015 0:00,"OXFORD, MS",10/25/2015 0:00
+68,252,253,254,31147,"Columbia, MO","Gainesville, FL",10/24/2015 0:00,"Columbia, MO",10/25/2015 0:00
+70,255,256,257,46000,"Morgantown, WV","Morgantown, WV",10/27/2015 0:00,Manhattan KS,10/28/2015 0:00
+71,255,256,257,35059,"Minneapolis, MN","Minneapolis, MN",10/27/2015 0:00,"Bloomington, IN",10/28/2015 0:00
+69,255,256,257,25997,"Univ Park, Pa.","Columbus, Ohio",10/27/2015 0:00,"Univ Park, Pa.",10/28/2015 0:00
+72,255,256,257,23400,"OXFORD, MS","ATHENS, GA",10/27/2015 0:00,"ATHENS, GA",10/28/2015 0:00
+73,256,257,258,51443,"Columbia, MO","Columbia, MO",10/28/2015 0:00,"College Station, TX",10/29/2015 0:00
+74,257,259,260,43000,"Lexington, KY","Lexington, KY",10/29/2015 0:00,"College Station, TX",10/31/2015 0:00
+75,257,260,261,41489,"Madison, WI and Minneapolis, MN","Madison, WI and Minnepolis, MN",10/29/2015 0:00,"West Lafayette, IN ",11/1/2015 0:00
+76,258,259,260,73000,"South Bend, IN","Hartford, CT",10/30/2015 0:00,"New York, NY",10/31/2015 0:00
+77,258,260,261,21631,"Madison, WI","Madison, WI",10/30/2015 0:00,"Bloomington, IN",11/1/2015 0:00
+78,259,260,261,27500,College Park PA ,State College PA,10/31/2015 0:00,Champaign IL ,11/1/2015 0:00
+80,259,260,261,26800,"OXFORD, MS","COLUMBIA, SC",10/31/2015 0:00,"COLUMBIA, SC",11/1/2015 0:00
+79,259,259,260,18605,"Lincoln, NE","Lincoln, NE",10/31/2015 0:00,"Baltimore, MD",10/31/2015 0:00
+81,260,261,262,51279,"Gulf Shores, AL","Gulf Shores, AL",11/1/2015 0:00,"College Station, TX",11/2/2015 0:00
+83,262,267,268,35500,"COLUMBIA, SC","GULF SHORES, AL",11/3/2015 0:00,"COLUMBIA, SC",11/8/2015 0:00
+82,262,263,264,26933,"Columbia, MO","College Station, TX",11/3/2015 0:00,"Columbia, MO",11/4/2015 0:00
+84,263,263,264,36901,LBB,"Lubbock, TX",11/4/2015 0:00,"Waco, TX",11/4/2015 0:00
+85,264,267,268,28675,"Minneapolis, MN","South Bend, IN",11/5/2015 0:00,"Minneapolis, MN",11/8/2015 0:00
+86,264,265,266,25969,"Starkville, MS","Gainesville, FL",11/5/2015 0:00,"Gainesville, FL",11/6/2015 0:00
+87,265,266,267,33372,"Bloomington, IN","Bloomington, IN",11/6/2015 0:00,"Lincoln, NE",11/7/2015 0:00
+88,266,267,268,26569,"Columbia, MO","Baton Rouge, LA",11/7/2015 0:00,"Columbia,MO",11/8/2015 0:00
+96,269,270,271,43470,"Lawrence, KS","Lawrence, KS",11/10/2015 0:00,"Austin, TX",11/11/2015 0:00
+92,269,270,271,39316,"Newark, NJ","Newark, NJ",11/10/2015 0:00,"Bloomington, IN",11/11/2015 0:00
+91,269,270,271,38113,"Baltimore, MD","College Park,MD",11/10/2015 0:00,"West Lafayette, IN ",11/11/2015 0:00
+89,269,271,272,37553,"South Bend, IN","Winston-Salem, NC",11/10/2015 0:00,"South Bend, IN",11/12/2015 0:00
+90,269,270,271,37505,"Univ Park, Pa.","Iowa City, Iowa",11/10/2015 0:00,"Univ Park, Pa.",11/11/2015 0:00
+94,269,270,271,35780,"Lansing, MI","East Lansing, MI",11/10/2015 0:00,"Lincoln, NE",11/11/2015 0:00
+95,269,270,271,23997,Columbus OH,Columbus OH,11/10/2015 0:00,Champaign IL ,11/11/2015 0:00
+93,269,270,271,14993,Minneapolis. MN,"Chicago, IL",11/10/2015 0:00,"Minneapolis, MN",11/11/2015 0:00
+98,271,272,273,38436,"Tulsa, OK","Tulsa, OK",11/12/2015 0:00,Manhattan KS,11/13/2015 0:00
+97,271,271,272,34643,"Tallahassee, FL","Tallahassee, FL",11/12/2015 0:00,"South Bend, IN",11/12/2015 0:00
+101,271,273,274,34400,"Oxford, MS","Oxford, MS",11/12/2015 0:00,"College Station, TX",11/14/2015 0:00
+100,271,272,273,31864,"Charlottesville, VA","Murfreesboro, TN",11/12/2015 0:00,"Charlottesville, VA",11/13/2015 0:00
+99,271,272,273,26832,"Charlottesville, VA","Nashville, TN",11/12/2015 0:00,"Charlottesville, VA",11/13/2015 0:00
+102,272,273,274,43910,"Univ Park, Pa.","Minneapolis, Minn.",11/13/2015 0:00,"Univ Park, Pa.",11/14/2015 0:00
+105,272,273,274,43470,"Ames, IA","Ames, IA",11/13/2015 0:00,"Austin, TX",11/14/2015 0:00
+104,272,273,274,42917,"Baltimore, MD","College Park, MD",11/13/2015 0:00,"Lincoln, NE",11/14/2015 0:00
+103,272,273,274,29676,"Waterloo, IA","Ceder Falls, IA",11/13/2015 0:00,"Fort Collins, CO",11/14/2015 0:00
+106,273,640,641,59700,"Tempe, AZ","Tempe, AZ",11/14/2015 0:00,"Lexington, KY",11/15/2016 0:00
+107,273,274,275,35431,"San Jose, CA","San Jose, CA",11/14/2015 0:00,"Laramie, WY",11/15/2015 0:00
+108,273,274,275,24799,"Columbia, MO","Lexington, KY",11/14/2015 0:00,"Columbia, MO",11/15/2015 0:00
+109,274,276,277,66809,"Philadelphia, PA","Philadelphia, PA",11/15/2015 0:00,"Lincoln, NE",11/17/2015 0:00
+111,274,275,276,39610,"Windsor Locks, CT","Columbus, OH",11/15/2015 0:00,"Windsor Locks, CT",11/16/2015 0:00
+110,274,275,276,36621,"Hulm, IN","Terre Haute, IN",11/15/2015 0:00,"Laramie, WY",11/16/2015 0:00
+114,275,276,277,50800,"Memphis, TN","Memphis, TN",11/16/2015 0:00,"Oklahoma City, OK",11/17/2015 0:00
+113,275,277,278,45950,"Tuscaloosa, AL","Dayton, OH",11/16/2015 0:00,"Tuscaloosa, AL",11/18/2015 0:00
+112,275,276,277,44879,"Miami, FL","Norfolk, VA",11/16/2015 0:00,"Miami, FL",11/17/2015 0:00
+115,275,276,277,42500,"Columbia, MO","Cincinatti, OH",11/16/2015 0:00,"Columbia, MO",11/17/2015 0:00
+116,275,1007,1008,40656,"Broomfield, CO","Auburn, AL",11/16/2015 0:00,"Broomfield, CO",11/17/2017 0:00
+120,276,282,283,238919,LUBBOCK TX,PUERTO RICO,11/17/2015 0:00,LUBBOCK TX,11/23/2015 0:00
+117,276,277,278,80670,Providence RI,Providence RI,11/17/2015 0:00,Champaign IL ,11/18/2015 0:00
+121,276,281,282,67339,"Charleston, SC","Charleston, SC",11/17/2015 0:00,"Stillwater, OK",11/22/2015 0:00
+122,276,277,278,60564,"Raleigh-Durham, NC","Durham, NC",11/17/2015 0:00,"College Station, TX",11/18/2015 0:00
+119,276,277,278,55141,"Univ Park, Pa.","Knoxville, Tenn.",11/17/2015 0:00,"Univ Park, Pa.",11/18/2015 0:00
+128,276,277,278,54572,"Baltimore, MD","Minneapolis, MN",11/17/2015 0:00,"Baltimore, MD",11/18/2015 0:00
+123,276,281,282,51900,"Charlottesville, VA","Charleston, SC",11/17/2015 0:00,"Charlottesville, VA",11/22/2015 0:00
+129,276,281,282,44400,"OXFORD, MS","CHARLESTON, SC",11/17/2015 0:00,"CHARLESTON, SC",11/22/2015 0:00
+124,276,277,278,40652,"Trenton, NJ","New Brunswick, NJ",11/17/2015 0:00,"West Lafayette, IN ",11/18/2015 0:00
+126,276,277,278,33328,"Fresno, CA","Fresno, CA",11/17/2015 0:00,"Laramie, WY",11/18/2015 0:00
+118,276,277,278,29600,"Columbia, MO","Wichita, KS",11/17/2015 0:00,"Columbia,MO",11/18/2015 0:00
+125,276,277,278,26385,"Akron/Canton, OH","Carbondale, ILL",11/17/2015 0:00,"Akron/Canton, OH",11/18/2015 0:00
+127,276,277,278,18915,"Columbia, MO","Fayetteville, AR",11/17/2015 0:00,"Columbia, MO",11/18/2015 0:00
+130,277,278,279,33939,"Charlottesville, VA","Auburn, AL",11/18/2015 0:00,"Charlottesville, VA",11/19/2015 0:00
+131,278,280,281,76000,"South Bend, IN","Lowell, MA",11/19/2015 0:00,"South Bend, IN",11/21/2015 0:00
+132,279,280,281,45330,"Morgantown, WV","Morgantown, WV",11/20/2015 0:00,"Lawrence, KS",11/21/2015 0:00
+137,279,280,281,42600,"South Bend, IN","Brookings, SD",11/20/2015 0:00,"South Bend, IN",11/21/2015 0:00
+134,279,280,281,39431,"Ypsilanti, MI","Ann Arbor, MI",11/20/2015 0:00,"Lincoln, NE",11/21/2015 0:00
+133,279,280,281,39300,"Austin, TX","Austin, TX",11/20/2015 0:00,Manhattan KS,11/21/2015 0:00
+135,279,280,281,33110,"Lafayette, IN","West Lafayette, IN",11/20/2015 0:00,"Lincoln, NE",11/21/2015 0:00
+136,279,280,281,17991,"Minneapolis.,MN","Lafayette, IN",11/20/2015 0:00,"Minneapolis, MN",11/21/2015 0:00
+138,280,281,282,47500,"Peoria, IL","Peoria, IL",11/21/2015 0:00,"Oklahoma City, OK",11/22/2015 0:00
+139,280,281,282,22521,"Billings, MT","Billings, MT",11/21/2015 0:00,"Laramie, WY",11/22/2015 0:00
+140,280,281,282,21805,"Columbia, MO","Oxford,MS",11/21/2015 0:00,"Columbia, MO",11/22/2015 0:00
+141,281,282,283,65500,"Tucson, AZ","Tucson, AZ",11/22/2015 0:00,"Topeka, KS",11/23/2015 0:00
+143,282,288,289,154997,"Windsor Locks, CT","Nassau, Bahamas",11/23/2015 0:00,"Windsor Locks, CT",11/29/2015 0:00
+142,282,287,288,152000,"Nassau, Bahamas","Nassau, Bahamas",11/23/2015 0:00,"College Station, TX",11/28/2015 0:00
+144,282,283,284,33304,"Long Beach, CA","Fullerton, CA",11/23/2015 0:00,"Laramie, WY",11/24/2015 0:00
+146,283,288,289,81968,"South Bend, IN","Orlando, FL",11/24/2015 0:00,"South Bend, IN",11/29/2015 0:00
+147,283,287,288,70534,"Freeport, Bahamas","Freeport, Bahamas",11/24/2015 0:00,"Waco, TX",11/28/2015 0:00
+148,283,285,286,48600,"Columbia, MO","Columbia, MO",11/24/2015 0:00,"College Station, TX",11/26/2015 0:00
+145,283,284,285,44835,"Minneapolis, MN","Akron, OH",11/24/2015 0:00,"Minneapolis, MN",11/25/2015 0:00
+149,283,285,286,42597,"South Bend, IN","Syracuse, NY",11/24/2015 0:00,"Syracuse, NY",11/26/2015 0:00
+150,284,287,288,42058,"DESTIN, FL","DESTIN, FL",11/25/2015 0:00,"ROANOKE, VA",11/28/2015 0:00
+151,285,287,288,49000,"Dallas, TX","Dallas, TX",11/26/2015 0:00,"Topeka, KS",11/28/2015 0:00
+152,286,287,288,47957,"Univ Park, Pa.",":Lincoln, Neb.",11/27/2015 0:00,"Univ Park, Pa.",11/28/2015 0:00
+153,286,287,288,38500,"OXFORD, MS","PEORIA, IL",11/27/2015 0:00,"PEORIA, IL",11/28/2015 0:00
+154,287,288,289,60674,"Alcoa, TN","Knoxville, TN",11/28/2015 0:00,"Austin, TX",11/29/2015 0:00
+155,287,287,288,17991,"Minneapolis.,MN","Bloomington, IN",11/28/2015 0:00,"Minneapolis, MN",11/28/2015 0:00
+158,288,290,291,65500,"Windsor Locks, CT","Chattanooga, TN",11/29/2015 0:00,"Chicago, IL",12/1/2015 0:00
+157,288,289,290,50566,"Anderson, SC","Minneapolis, MN",11/29/2015 0:00,"Anderson, SC",11/30/2015 0:00
+156,288,288,289,20386,"Crestview, FL","Niceville, FL",11/29/2015 0:00,"Birmingham, AL",11/29/2015 0:00
+160,289,290,291,76984,"Pittsburg, Pa","Pittsburg, PA",11/30/2015 0:00,"West Lafayette, IN",12/1/2015 0:00
+159,289,290,291,62215,"Miami, FL","Lincoln, NE",11/30/2015 0:00,"Miami, FL",12/1/2015 0:00
+162,289,290,291,38400,"Charlottesville, VA","Columbus, OH",11/30/2015 0:00,"Charlottesville, VA",12/1/2015 0:00
+161,289,291,292,37643,"Baltimore, MD","Chapel Hill, NC",11/30/2015 0:00,"Baltimore, MD",12/2/2015 0:00
+163,290,657,658,104850,Miami FL,Coral Gables FL,12/1/2015 0:00,Champaign IL,12/2/2016 0:00
+164,290,291,292,67175,"Phoenix, AZ","Omaha, NE",12/1/2015 0:00,"Omaha, NE",12/2/2015 0:00
+165,290,291,292,59610,"Los Angeles, CA","Spokane, WA",12/1/2015 0:00,"Los Angeles, CA",12/2/2015 0:00
+166,290,657,658,49637,"Univ Park, Pa.","Chestnut Hill, Mass.",12/1/2015 0:00,"Univ Park, Pa.",12/2/2016 0:00
+167,290,291,292,46867,"Columbus, MS","Austin, TX",12/1/2015 0:00,"Austin, TX",12/2/2015 0:00
+168,290,291,292,36896,"South Bend, IN","Champaign, IL",12/1/2015 0:00,"South Bend, IN",12/2/2015 0:00
+171,291,293,294,63843,"Minneapolis, MN","Durham, NC",12/2/2015 0:00,"Minneapolis, MN",12/4/2015 0:00
+170,291,292,293,60081,"Newark, NJ","Tallahassee, FL",12/2/2015 0:00,"Newark, NJ",12/3/2015 0:00
+173,291,292,293,33108,"Pittsburgh, PA","Ann Arbor, MI",12/2/2015 0:00,"Pittsburgh, PA",12/3/2015 0:00
+172,291,658,659,28973,"STATE COLLEGE, PA","STATE COLLEGE, PA",12/2/2015 0:00,"ROANOKE, VA",12/3/2016 0:00
+169,291,294,295,25000,"Univ Park, Pa.","Cary, N.C.",12/2/2015 0:00,"Univ Park, Pa.",12/5/2015 0:00
+174,291,295,296,12036,"Tallahassee, FL","Cary, NC",12/2/2015 0:00,"Tallahassee, FL",12/6/2015 0:00
+175,292,293,294,52191,"Athens, GA","Athens, GA",12/3/2015 0:00,Manhattan KS,12/4/2015 0:00
+177,293,295,296,90400,"Seattle, WA","Seattle, WA",12/4/2015 0:00,"Oklahoma City, OK",12/6/2015 0:00
+176,293,294,295,79000,"Phoenix, AZ","Tempe, AZ",12/4/2015 0:00,"College Station, TX",12/5/2015 0:00
+179,293,294,295,53000,"OXFORD, MS","SPRINGFIELD, MA",12/4/2015 0:00,"WESTFIELD, MA",12/5/2015 0:00
+178,293,294,295,39992,"South Bend, IN","Storrs, CT",12/4/2015 0:00,"South Bend, IN",12/5/2015 0:00
+180,296,297,298,40700,"Charlottesville, VA","New York City, NY",12/7/2015 0:00,"Charlottesville, VA",12/8/2015 0:00
+181,296,297,298,26018,"Toledo, OH","Cape Girardeau, MO",12/7/2015 0:00,"Toledo, OH",12/8/2015 0:00
+182,297,298,299,34041,"Windsor Locks, CT","Syracuse, NY",12/8/2015 0:00,"Windsor Locks, CT",12/9/2015 0:00
+183,298,299,300,76000,"South Bend, IN","Chestnut Hill, MA",12/9/2015 0:00,"South Bend, IN",12/10/2015 0:00
+184,298,302,303,39278,"Greenville, SC","Kansas City, MO",12/9/2015 0:00,"Greenville, SC",12/13/2015 0:00
+185,299,302,303,62929,"Minneapolis, MN","Detroit, MI",12/10/2015 0:00,"Minneapolis, MN",12/13/2015 0:00
+186,299,300,301,59763,"Knoxville, TN","Whitchita, KS",12/10/2015 0:00,"Knoxville, TN",12/11/2015 0:00
+188,299,301,302,49994,LUBBOCK TX,SANTA CLARA CA,12/10/2015 0:00,LUBBOCK TX,12/12/2015 0:00
+187,299,300,301,19995,"Muncie, IN","Nashville, TN",12/10/2015 0:00,"Muncie, IN",12/11/2015 0:00
+189,300,301,302,77945,"Phoenix, AZ","Lexington, KY",12/11/2015 0:00,"Lexington, KY",12/12/2015 0:00
+196,300,301,302,76131,"Oakland, CA","Berkeley, CA",12/11/2015 0:00,"Lincoln, NE",12/12/2015 0:00
+191,300,301,302,55142,"Sioux Falls, SD","Sioux Falls,SD",12/11/2015 0:00,"Stillwater, OK",12/12/2015 0:00
+195,300,301,302,45641,"College Station, TX","College Station, TX",12/11/2015 0:00,Manhattan KS,12/12/2015 0:00
+193,300,301,302,43282,"South Bend, IN","Fort Worth, TX",12/11/2015 0:00,"South Bend, IN",12/12/2015 0:00
+190,300,301,302,43200,"Columbia, MO","Boulder, CO",12/11/2015 0:00,"Columbia, MO",12/12/2015 0:00
+192,300,301,302,41900,"Minneapolis, MN","Sioux Fall, SD",12/11/2015 0:00,"Minneapolis, MN",12/12/2015 0:00
+194,300,304,305,40450,"Columbus, MS","Kansas City, MO",12/11/2015 0:00,"Kansas City, MO",12/15/2015 0:00
+197,300,301,302,34428,"Pittsburgh, PA","Princeton, NJ",12/11/2015 0:00,"Pittsburgh, PA",12/12/2015 0:00
+198,301,302,303,74221,Raleigh-Durham,"Tampa, Fla",12/12/2015 0:00,"Raleigh, NC",12/13/2015 0:00
+200,301,302,303,63960,"Columbia, MO","Tucson, AZ",12/12/2015 0:00,"Columbia, MO",12/13/2015 0:00
+199,301,303,304,40934,"Tuscaloosa, AL","Greenville, SC",12/12/2015 0:00,"Tuscaloosa, AL",12/14/2015 0:00
+201,301,302,303,27913,"Las Cruces, NM","Las Cruces, NM",12/12/2015 0:00,"Laramie, WY",12/13/2015 0:00
+202,302,303,304,45200,"Westfield, Ma","Durham, NC",12/13/2015 0:00,"Westfield, Ma",12/14/2015 0:00
+204,304,307,308,47350,"Minneapolis, MN","Omaha, NE",12/15/2015 0:00,"Minneapolis, MN",12/18/2015 0:00
+205,304,305,306,32392,"Columbus, MS","Tallahassee, FL",12/15/2015 0:00,"Tallahassee, FL",12/16/2015 0:00
+203,304,304,305,9881,"Pittsburgh, PA",Multiple Locations,12/15/2015 0:00,"Pittsburgh, PA",12/15/2015 0:00
+206,306,673,674,51066,"Anderson, SC","Orono, ME",12/17/2015 0:00,"Anderson, SC",12/18/2016 0:00
+210,307,309,310,94513,"San Jose, CA","Palo Alto, CA",12/18/2015 0:00,"Austin, TX",12/20/2015 0:00
+208,307,674,675,89143,Raleigh-Durham,"Columbia, MO",12/18/2015 0:00,"Raleigh, NC",12/19/2016 0:00
+209,307,310,311,61887,"Orlando, FL","Orlando, FL",12/18/2015 0:00,"Waco, TX",12/21/2015 0:00
+211,307,308,309,48000,"Phila., PA","Charlottesville, VA",12/18/2015 0:00,"Charlottesville, VA",12/19/2015 0:00
+207,307,308,309,44303,Memphis TN,Memphis TN,12/18/2015 0:00,Champaign IL,12/19/2015 0:00
+213,307,308,309,29796,"Cincinnati, OH","Richmond, VA",12/18/2015 0:00,"Cincinnati, OH",12/19/2015 0:00
+212,307,308,309,24664,"Witchita, KS","Witchita, KS",12/18/2015 0:00,"Fort Collins, CO",12/19/2015 0:00
+214,308,309,310,48276,"Pittsburgh, PA","New York City, NY",12/19/2015 0:00,"Pittsburgh, PA",12/20/2015 0:00
+215,308,309,310,25562,"Oklahoma City, OK","Norman, OK",12/19/2015 0:00,"College Station, TX",12/20/2015 0:00
+216,309,312,313,50856,"NEWARK, NJ","BROOKLYN, NY",12/20/2015 0:00,"ROANOKE, VA",12/23/2015 0:00
+217,309,310,311,26691,"Charlottesville, VA","Columbus, OH",12/20/2015 0:00,"Charlottesville, VA",12/21/2015 0:00
+218,310,311,312,48600,"COLUMBIA, SC","UNCASVILLE, CT",12/21/2015 0:00,"COLUMBIA, SC",12/22/2015 0:00
+219,316,319,320,117997,"Windsor Locks, CT","Austin, TX",12/27/2015 0:00,"New Orleans, LA",12/30/2015 0:00
+220,317,318,319,44102,"Madison, WI","Madison, WI",12/28/2015 0:00,"West Lafayette, IN",12/29/2015 0:00
+221,317,319,320,29722,"Columbia, MO","Columbia, MO",12/28/2015 0:00,"Concord, NC",12/30/2015 0:00
+226,318,319,320,81192,"Bridgeport, WV","Morgantown, WV",12/29/2015 0:00,"Austin, TX",12/30/2015 0:00
+223,318,686,687,71212,"Providence, RI","Omaha, NE",12/29/2015 0:00,"Newark, NJ",12/31/2016 0:00
+227,318,319,320,45654,"White Plains, NY","Cincinnati, OH",12/29/2015 0:00,"Windsor Locks, CT",12/30/2015 0:00
+225,318,319,320,44220,SWO,"Stillwater, OK",12/29/2015 0:00,"Waco, TX",12/30/2015 0:00
+224,318,319,320,42425,"Minneapolis, MN","Columbus, OH",12/29/2015 0:00,"Minneapolis, MN",12/30/2015 0:00
+228,318,319,320,35668,"Columbus, MS","Jacksonville, FL",12/29/2015 0:00,"Jacksonville, FL",12/30/2015 0:00
+222,318,319,320,31802,"Anderson, SC","Chapel Hill, NC",12/29/2015 0:00,"Anderson, SC",12/30/2015 0:00
+230,319,320,321,63700,"Minneapolis, MN","Piscataway, NJ",12/30/2015 0:00,"Minneapolis, MN",12/31/2015 0:00
+229,319,320,321,58900,"Memphis, TN","Philadelphia, PA",12/30/2015 0:00,"Memphis, TN",12/31/2015 0:00
+231,319,320,321,48924,"Baltimore, MD","Champaign, IL",12/30/2015 0:00,"Baltimore, MD",12/31/2015 0:00
+232,319,320,321,34207,"Ypsillanti, MI","Ann Arbor, MI",12/30/2015 0:00,"West Lafayette, IN",12/31/2015 0:00
+233,319,320,321,26932,"Madison, WI","Madison, WI",12/30/2015 0:00,"Bloomington, IN",12/31/2015 0:00
+234,320,322,323,45926,"South Bend, IN","Charlottesville, VA",12/31/2015 0:00,"South Bend, IN",1/2/2016 0:00
+235,320,322,323,38980,"Tulsa, OK","Cincinnati, OH",12/31/2015 0:00,"Tulsa, OK",1/2/2016 0:00
+236,320,322,323,30554,LUBBOCK TX,AUSTIN TX,12/31/2015 0:00,LUBBOCK TX,1/2/2016 0:00
+237,321,322,323,95926,"Memphis, TN","Columbia, SC",1/1/2016 0:00,"Memphis, TN",1/2/2016 0:00
+246,321,322,323,68458,"Lubbock, TX","Lubbock, TX",1/1/2016 0:00,"Austin, TX",1/2/2016 0:00
+241,321,324,325,56238,"LAX (Los Angelos, CA)","Los Angelos, CA",1/1/2016 0:00,"EUG (Eugene, OR)",1/4/2016 0:00
+243,321,322,323,56137,"Newark, NJ","Madison, Wisconsin",1/1/2016 0:00,"Newark, NJ",1/2/2016 0:00
+242,321,322,323,53032,"Lincoln, NE","Lincoln, NE",1/1/2016 0:00,"Bloomington, IN",1/2/2016 0:00
+239,321,322,323,52540,"Univ Park, Pa.","Ann Arbor, Mich.",1/1/2016 0:00,"Univ Park, Pa.",1/2/2016 0:00
+244,321,322,323,49456,FOE,"Lawrence, KS",1/1/2016 0:00,"Waco, TX",1/2/2016 0:00
+238,321,322,323,48538,"Des Moines, IA","Ames, IA",1/1/2016 0:00,"Stillwater, OK",1/2/2016 0:00
+247,321,322,323,45368,"Knoxville, TN","Columbus, GA",1/1/2016 0:00,"Knoxville, TN",1/2/2016 0:00
+240,321,323,324,44588,"Columbus, MS","Gainesville, FL",1/1/2016 0:00,"Gainesville, FL",1/3/2016 0:00
+245,321,322,323,40401,"Fort Worth, TX","Fort Worth, TX",1/1/2016 0:00,Manhattan KS,1/2/2016 0:00
+249,321,322,323,37400,"OXFORD, MS","LEXINGTON, KY",1/1/2016 0:00,"LEXINGTON, KY",1/2/2016 0:00
+248,321,322,323,32339,"Las vegas, NV","Las vegas, NV",1/1/2016 0:00,"Fort Collins, CO",1/2/2016 0:00
+254,322,329,330,95000,"Phila., PA","Omaha, NE",1/2/2016 0:00,"Omaha, NE",1/9/2016 0:00
+253,322,323,324,58207,"Univ Park, Pa.","Minneapolis, Minn.",1/2/2016 0:00,"Univ Park, Pa.",1/3/2016 0:00
+251,322,323,324,56866,"Columbus, GA","Auburn, AL",1/2/2016 0:00,"Lexington, KY",1/3/2016 0:00
+250,322,323,324,48100,"Miami, FL","Charlottesville, VA",1/2/2016 0:00,"Miami, FL",1/3/2016 0:00
+252,322,323,324,40811,Columbus Ohio,Columbus OH,1/2/2016 0:00,Champaign IL ,1/3/2016 0:00
+256,322,323,324,35600,"Chicago, IL","Evanston, IL",1/2/2016 0:00,"Lincoln, NE",1/3/2016 0:00
+255,322,323,324,28214,"Boise, ID","Boise, ID",1/2/2016 0:00,"Fort Collins, CO",1/3/2016 0:00
+257,323,324,325,57342,"Newark, NJ","Iowa City, Iowa",1/3/2016 0:00,"Newark, NJ",1/4/2016 0:00
+259,323,324,325,53195,"Knoxville, TN","Columbia, MO",1/3/2016 0:00,"Knoxville, TN",1/4/2016 0:00
+258,323,324,325,48450,"Topeka, KS","Manhattan, KS",1/3/2016 0:00,"Oklahoma City, OK",1/4/2016 0:00
+264,324,325,326,46951,"Austin, TX","Austin, TX",1/4/2016 0:00,Manhattan KS,1/5/2016 0:00
+260,324,325,326,45983,"Waco, TX","Waco, TX",1/4/2016 0:00,"Stillwater, OK",1/5/2016 0:00
+261,324,325,326,43420,"Anderson, SC","Syracuse, NY",1/4/2016 0:00,"Anderson, SC",1/5/2016 0:00
+263,324,325,326,38436,"Minneapolis, MN","State College, PA",1/4/2016 0:00,"Minneapolis, MN",1/5/2016 0:00
+265,324,324,325,35800,Los Angeles CA,Los Angeles CA,1/4/2016 0:00,"Corvallis, OR",1/4/2016 0:00
+267,324,325,326,31100,"Tucson, Arizona","Tucson, Arizona",1/4/2016 0:00,"Oakland, CA",1/4/2016 0:00
+266,324,324,325,31100,"Cedar Rapids, IA","Iowa City, IA",1/4/2016 0:00,"Lincoln, NE",1/5/2016 0:00
+262,324,325,326,28500,"COLUMBIA, SC","AUBURN, AL",1/4/2016 0:00,"COLUMBIA, SC",1/5/2016 0:00
+268,325,326,327,56000,"Columbus, MS","Starkville, MS",1/5/2016 0:00,"College Station, TX",1/6/2016 0:00
+271,325,326,327,49456,FOE,"Lawrence, KS",1/5/2016 0:00,"Waco, TX",1/6/2016 0:00
+272,325,326,327,47500,"DeKalb, Il","DeKalb, Il",1/5/2016 0:00,"Athens, OH",1/6/2016 0:00
+269,325,326,327,46613,"Lubbock, TX","Lubbock, TX",1/5/2016 0:00,"Stillwater, OK",1/6/2016 0:00
+270,325,326,327,39429,"Columbia, MO","Athens,GA",1/5/2016 0:00,"Columbia, MO",1/6/2016 0:00
+273,325,326,327,37542,LUBBOCK TX,AMES IA,1/5/2016 0:00,LUBBOCK TX,1/6/2016 0:00
+283,326,328,329,62995,"Baltimore, MD","College Park, MD",1/6/2016 0:00,"Lincoln, NE",1/8/2016 0:00
+285,326,327,328,55107,"Pittsburgh, PA","Miami, FL",1/6/2016 0:00,"Pittsburgh, PA",1/7/2016 0:00
+281,326,327,328,45926,"South Bend, IN","Chestnut Hill, MA",1/6/2016 0:00,"South Bend, IN",1/7/2016 0:00
+282,326,327,328,45926,"Cincinnati, OH","Dallas, TX",1/6/2016 0:00,"Cincinnati, OH",1/7/2016 0:00
+274,326,327,328,45889,"Memphis, TN","Cincinnati, OH",1/6/2016 0:00,"Memphis, TN",1/7/2016 0:00
+280,326,327,328,43977,"Fayetteville, ARK","Fayetteville, ARK",1/6/2016 0:00,"College Station, TX",1/7/2016 0:00
+288,326,327,328,42000,"Hattiesburg, MS","Hattiesburg, MS",1/6/2016 0:00,"Monroe, LA",1/7/2016 0:00
+275,326,327,328,39931,Lansing MI, East Lansing MI,1/6/2016 0:00,Champaign IL ,1/7/2016 0:00
+276,326,327,328,39500,"Columbia, MO","Athens, GA",1/6/2016 0:00,"Columbia,MO",1/7/2016 0:00
+278,326,328,329,34720,"Tuscaloosa, AL","Oxford, MS",1/6/2016 0:00,"Tuscaloosa, AL",1/8/2016 0:00
+286,326,327,328,34506,"Tuscaloosa, AL","Lexington, KY",1/6/2016 0:00,"Tuscaloosa, AL",1/7/2016 0:00
+277,326,328,329,34500,"COLUMBIA, SC","NASHVILLE, TN",1/6/2016 0:00,"COLUMBIA, SC",1/8/2016 0:00
+279,326,327,328,34245,"Minneapolis, MN","Champaign, IL",1/6/2016 0:00,"Minneapolis, MN",1/7/2016 0:00
+289,326,327,328,33023,"South Bend, IN","Charlottesville, VA",1/6/2016 0:00,"South Bend, IN",1/7/2016 0:00
+284,326,327,328,30405,"LOUISVILLE, KY","LOUISVILLE, KY",1/6/2016 0:00,"ROANOKE, VA",1/7/2016 0:00
+287,326,327,328,29800,"OXFORD, MS","BATON ROUGE, LA",1/6/2016 0:00,"BATON ROUGE, LA",1/7/2016 0:00
+291,327,329,330,140072,"Windsor Locks, CT","Houston, TX",1/7/2016 0:00,"Tampa, FL",1/9/2016 0:00
+290,327,330,331,68210,"Minneapolis, MN","State College, PA",1/7/2016 0:00,"Minneapolis, MN",1/10/2016 0:00
+293,328,329,330,74000,"Knoxville, TN","Knoxville, TN",1/8/2016 0:00,"College Station, TX",1/9/2016 0:00
+292,328,329,330,67134,"Memphis, TN","Storrs, CT",1/8/2016 0:00,"Memphis, TN",1/9/2016 0:00
+296,328,329,330,63775,"Ewing Township,NJ","Piscataway, NJ",1/8/2016 0:00,"Lincoln, NE",1/9/2016 0:00
+294,328,329,330,58514,"Clarksburg, WV","Morgantown, WV",1/8/2016 0:00,"Stillwater, OK",1/9/2016 0:00
+301,328,330,331,56948,LUBBOCK TX,MORGANTOWN WV,1/8/2016 0:00,LUBBOCK TX,1/10/2016 0:00
+299,328,329,330,46879,"Stillwater, OK","Stillwater, OK",1/8/2016 0:00,"Austin, TX",1/9/2016 0:00
+295,328,329,330,46844,"Pittsburgh, PA","South Bend, IN",1/8/2016 0:00,"Pittsburgh, PA",1/9/2016 0:00
+300,328,329,330,44993,"Charlottesville, VA","Atlanta, GA",1/8/2016 0:00,"Charlottesville, VA",1/9/2016 0:00
+298,328,329,330,38436,"Norman, OK ","Norman, OK",1/8/2016 0:00,Manhattan KS,1/9/2016 0:00
+297,328,329,330,34159,"Columbus, MS","Fayetteville, AR",1/8/2016 0:00,"Fayetteville, AR",1/9/2016 0:00
+314,329,330,331,57000,"Phila., PA","Indianapolis, IN",1/9/2016 0:00,"Indianapolis, IN",1/10/2016 0:00
+313,329,330,331,54811,"Baltimore, MD","Iowa City, IA",1/9/2016 0:00,"Baltimore, MD",1/10/2016 0:00
+307,329,330,331,53024,"Univ Park, Pa.","Madison, Wisc.",1/9/2016 0:00,"Univ Park, Pa.",1/10/2016 0:00
+302,329,330,331,52234,Lincoln NE,Lincoln NE,1/9/2016 0:00,Champaign IL,1/10/2016 0:00
+310,329,330,331,50063,"Newark, NJ","Columbus, OH",1/9/2016 0:00,"Newark, NJ",1/10/2016 0:00
+304,329,330,331,48200,"Athens, GA","Athens, GA",1/9/2016 0:00,"Lexington, KY",1/10/2016 0:00
+306,329,330,331,47793,Raleigh-Durham,"Pittsburgh, PA",1/9/2016 0:00,"Raleigh, NC",1/10/2016 0:00
+312,329,330,331,45926,"Cincinnati, OH","Tampa Bay, FL",1/9/2016 0:00,"Cincinnati, OH",1/10/2016 0:00
+311,329,330,331,43500,"Columbia, MO","Columbia, SC",1/9/2016 0:00,"Columbia, MO",1/10/2016 0:00
+303,329,330,331,42228,"Miami, FL","Clemson, SC",1/9/2016 0:00,"Miami, FL",1/10/2016 0:00
+309,329,330,331,41623,"Baton Rouge, LA","Baton Rouge, LA",1/9/2016 0:00,"College Station, TX",1/10/2016 0:00
+308,329,331,332,38000,"Philadelphia, PA","Memphis, TN",1/9/2016 0:00,"Tulsa, OK",1/11/2016 0:00
+315,329,330,331,33938,"SYRACUSE, NY","SYRACUSE, NY",1/9/2016 0:00,"ROANOKE, VA",1/10/2016 0:00
+305,329,330,331,33520,"Tulsa, OK","New Orleans, LA",1/9/2016 0:00,"Tulsa, OK",1/10/2016 0:00
+318,330,330,331,49890,"Los Angeles, CA","Los Angeles, CA",1/10/2016 0:00,"Tuscaloosa, AL",1/10/2016 0:00
+317,330,330,331,48600,Seatlle,Seattle,1/10/2016 0:00,"Tucson, AZ",1/10/2016 0:00
+316,330,330,331,46254,"Elpaso, TX",Elpaso TX,1/10/2016 0:00,"Birmingham, AL",1/10/2016 0:00
+319,331,332,333,48100,"Miami, FL","Charlottesville, VA",1/11/2016 0:00,"Miami, FL",1/12/2016 0:00
+322,331,333,334,42015,"Baltimore, MD","Ann Arbor, MI",1/11/2016 0:00,"Baltimore, MD",1/13/2016 0:00
+321,331,332,333,34366,"Columbus, MS","Lexington, KY",1/11/2016 0:00,"Lexington, KY",1/12/2016 0:00
+320,331,332,333,33760,"Minneapolis, MN","Lincoln, NE",1/11/2016 0:00,"Minneapolis, MN",1/12/2016 0:00
+323,331,332,333,30074,LUBBOCK TX,MANHATTAN KS,1/11/2016 0:00,LUBBOCK TX,1/12/2016 0:00
+324,332,333,334,72404,Newark NJ,Piscataway NJ,1/12/2016 0:00,Champaign IL,1/13/2016 0:00
+328,332,333,334,60410,"State College, PA","State College, PA",1/12/2016 0:00,"Lincoln, NE",1/13/2016 0:00
+325,332,333,334,53083,"Univ Park, Pa.","West Lafayette, Ind.",1/12/2016 0:00,"Univ Park, Pa.",1/13/2016 0:00
+329,332,333,334,52856,"Lawrence, KS","Lawrence, KS",1/12/2016 0:00,"Austin, TX",1/13/2016 0:00
+327,332,333,334,50412,"Newark, NJ","Columbus, OH",1/12/2016 0:00,"Newark, NJ",1/13/2016 0:00
+330,332,333,334,39745,"Knoxville, TN","Athens, GA",1/12/2016 0:00,"Knoxville, TN",1/13/2016 0:00
+326,332,333,334,38100,"COLUMBIA, SC","TUSCALOOSA, AL",1/12/2016 0:00,"COLUMBIA, SC",1/13/2016 0:00
+332,332,333,334,35400,"OXFORD, MS","BATON ROUGE, LA",1/12/2016 0:00,"BATON ROUGE, LA",1/13/2016 0:00
+333,332,334,335,28483,LUBBOCK TX,FORT WORTH TX,1/12/2016 0:00,LUBBOCK TX,1/14/2016 0:00
+331,332,333,334,26800,"Muncie, IN","Muncie, IN",1/12/2016 0:00,"Buffalo, NY",1/13/2016 0:00
+334,333,335,336,179900,"Windsor Locks, CT","Tulsa, OK",1/13/2016 0:00,"Houston, TX",1/15/2016 0:00
+340,333,334,335,55818,"Knoxville, TN","Fayetteville, AR",1/13/2016 0:00,"Knoxville, TN",1/14/2016 0:00
+336,333,334,335,46000,"Pittsburgh, PA","Louisville, KY",1/13/2016 0:00,"Pittsburgh, PA",1/14/2016 0:00
+337,333,334,335,42932,"Columbus, MS","Columbia, MO",1/13/2016 0:00,"Columbia, MO",1/14/2016 0:00
+344,333,334,335,42074,"South Bend, IN","Chestnut Hill, MA",1/13/2016 0:00,"South Bend, IN",1/14/2016 0:00
+339,333,334,335,40888,"Baltimore, MD","Ann Arbor, MI",1/13/2016 0:00,"Baltimore, MD",1/14/2016 0:00
+342,333,334,335,39350,"Minneapolis, MN","West Lafayette, IN",1/13/2016 0:00,"Minneapolis, MN",1/14/2016 0:00
+341,333,334,335,36766,"Pittsburgh, PA","Syracuse, NY",1/13/2016 0:00,"Pittsburgh, PA",1/14/2016 0:00
+343,333,334,335,34600,"OXFORD, MS","COLLEGE STATION, TX",1/13/2016 0:00,"COLLEGE STATION, TX",1/14/2016 0:00
+335,333,334,335,34500,"COLUMBIA, SC","LEXINGTON, KY",1/13/2016 0:00,"COLUMBIA, SC",1/14/2016 0:00
+338,333,333,334,25921,"New Orleans, LA","New Orleans, LA",1/13/2016 0:00,"Tampa,FL",1/13/2016 0:00
+345,334,336,337,52398,"Minneapolis, MN","Minneapolis, MN",1/14/2016 0:00,"Bloomington, IN",1/16/2016 0:00
+346,334,334,335,38500,Boulder CO,Boulder CO,1/14/2016 0:00,"Corvallis, OR",1/14/2016 0:00
+348,334,335,336,24200,"Columbia, MO","Tuscaloosa, AL",1/14/2016 0:00,"Columbia, MO",1/15/2016 0:00
+347,334,336,337,22440,"Albuquerque, NM","Albuquerque, NM",1/14/2016 0:00,"Laramie, WY",1/16/2016 0:00
+351,335,336,337,73000,"Athens, GA","Athens, GA",1/15/2016 0:00,"College Station, TX",1/16/2016 0:00
+353,335,336,337,61100,"Clarksburg, WV","Morgantown, WV",1/15/2016 0:00,"Topeka, KS",1/16/2016 0:00
+355,335,336,337,59670,"Newark, NJ","Lincoln, NE",1/15/2016 0:00,"Lansing, Michigan",1/16/2016 0:00
+352,335,336,337,48704,"Univ Park, Pa.","Evanston, Ill.",1/15/2016 0:00,"Univ Park, Pa.",1/16/2016 0:00
+359,335,336,337,47335,"Knoxville, TN","Columbus, MS ",1/15/2016 0:00,"Knoxville, TN",1/16/2016 0:00
+354,335,336,337,46902,"Austin, TX","Austin, TX",1/15/2016 0:00,"Stillwater, OK",1/16/2016 0:00
+356,335,336,337,45926,"South Bend, IN","Durham, NC",1/15/2016 0:00,"South Bend, IN",1/16/2016 0:00
+358,335,336,337,45926,"Cincinnati, OH","Philadelphia, PA",1/15/2016 0:00,"Cincinnati, OH",1/16/2016 0:00
+357,335,336,337,42808,LBB,"Lubbock, TX",1/15/2016 0:00,"Waco, TX",1/16/2016 0:00
+349,335,336,337,42228,"Miami, FL","Clemson, SC",1/15/2016 0:00,"Miami, FL",1/16/2016 0:00
+350,335,336,337,41650,"Memphis, TN","Dallas, TX",1/15/2016 0:00,"Memphis, TN",1/16/2016 0:00
+360,335,336,337,38436,"Boston, MA","Pittsburgh, PA",1/15/2016 0:00,"Boston, MA",1/16/2016 0:00
+361,335,336,337,34913,"Savoy, IL","Champaign, IL",1/15/2016 0:00,"Lincoln, NE",1/16/2016 0:00
+363,336,337,338,56550,"Columbia, SC","Columbia, SC",1/16/2016 0:00,"College Station, TX",1/17/2016 0:00
+366,336,337,338,49100,"Charlottesville, VA","Tallahassee, FL",1/16/2016 0:00,"Charlottesville, VA",1/17/2016 0:00
+364,336,337,338,46525,"Minneapolis, MN","Minneapolis, MN",1/16/2016 0:00,"Bloomington, IN",1/17/2016 0:00
+362,336,336,337,41900,"Houston, TX","Houston, TX",1/16/2016 0:00,"Huntington, WV",1/16/2016 0:00
+365,336,337,338,31900,"Columbia, MO","Fayetteville, AR",1/16/2016 0:00,"Columbia, MO",1/17/2016 0:00
+367,336,337,338,29932,"Charlottesville, VA","Atlanta, GA",1/16/2016 0:00,"Charlottesville, VA",1/17/2016 0:00
+368,337,338,339,76979,"Trenton, NJ","New Brunswick, NJ",1/17/2016 0:00,"West Lafayette, IN",1/18/2016 0:00
+371,337,338,339,50583,"Knoxville, TN","South Bend, IN",1/17/2016 0:00,"Knoxville, TN",1/18/2016 0:00
+370,337,338,339,47750,"Des Moines, IA","Ames, IA",1/17/2016 0:00,"Oklahoma City, OK",1/18/2016 0:00
+369,337,338,339,32827,"Anderson, SC","Blacksburg, VA",1/17/2016 0:00,"Anderson, SC",1/18/2016 0:00
+372,337,337,338,29400,Salt Lake City UT,"Salt Lake City, UT",1/17/2016 0:00,"Corvallis, OR",1/17/2016 0:00
+373,337,338,339,26339,LUBBOCK TX,FORT WORTH,1/17/2016 0:00,LUBBOCK TX,1/18/2016 0:00
+374,338,339,340,55482,Raleigh-Durham,"Pittsburgh, PA",1/18/2016 0:00,"Raleigh, NC",1/19/2016 0:00
+377,338,340,341,53856,"Tulsa, OK","Greenville, NC",1/18/2016 0:00,"Tulsa, OK",1/20/2016 0:00
+375,338,339,340,34210,"Anderson, SC","Charlottesville, VA",1/18/2016 0:00,"Anderson, SC",1/19/2016 0:00
+376,338,339,340,33900,"COLUMBIA, SC","OXFORD, MS",1/18/2016 0:00,"COLUMBIA, SC",1/19/2016 0:00
+387,339,340,341,81192,"Bridgeport, WV","Morgantown, WV",1/19/2016 0:00,"Austin, TX",1/20/2016 0:00
+381,339,372,373,70418,Omaha NE,Providence RI,1/19/2016 0:00,Milwaukee WI,2/21/2016 0:00
+378,339,340,341,56022,"Miami, FL","Chestnut Hill, MA",1/19/2016 0:00,"Miami, FL",1/20/2016 0:00
+380,339,340,341,54429,"Univ Park, Pa.","Iowa City, Iowa",1/19/2016 0:00,"Univ Park, Pa.",1/20/2016 0:00
+388,339,340,341,51095,"Baltimore, MD","Madison, WI",1/19/2016 0:00,"Baltimore, MD",1/20/2016 0:00
+379,339,340,341,49900,"SOUTH BEND, IN","SOUTH BEND, IN",1/19/2016 0:00,"ROANOKE, VA",1/20/2016 0:00
+386,339,340,341,45990,"East Lansing, MI","East Lansing, MI",1/19/2016 0:00,"Lincoln, NE",1/20/2016 0:00
+385,339,340,341,43476,"Waco, TX","Waco, TX",1/19/2016 0:00,Manhattan KS,1/20/2016 0:00
+383,339,340,341,38436,"Minneapolis, MN","Ann Arbor, MI",1/19/2016 0:00,"Minneapolis, MN",1/20/2016 0:00
+389,339,340,341,36600,"Lafayette, IN","West Lafayette, IN",1/19/2016 0:00,"Lincoln, NE",1/20/2016 0:00
+384,339,340,341,36445,"Columbus, MS","Gainesville, FL",1/19/2016 0:00,"Gainesville, FL",1/20/2016 0:00
+390,339,340,341,28757,LUBBOCK TX,NORMAN OK,1/19/2016 0:00,LUBBOCK TX,1/20/2016 0:00
+382,339,339,340,27505,"Lansing, MI","East Lansing, Michigan",1/19/2016 0:00,"Newark, NJ",1/19/2016 0:00
+392,340,341,342,74250,"Memphis, TN","Cincinnati, OH",1/20/2016 0:00,"Memphis, TN",1/21/2016 0:00
+391,340,342,343,53610,"Tupelo, MS","University, MS",1/20/2016 0:00,"Lexington, KY",1/22/2016 0:00
+397,340,341,342,42745,"Pittsburgh, PA","Chestnut Hill, MA",1/20/2016 0:00,"Pittsburgh, PA",1/21/2016 0:00
+396,340,341,342,41400,"Columbia, MO","College Station, TX",1/20/2016 0:00,"Columbia, MO",1/21/2016 0:00
+394,340,341,342,38998,"Columbus, MS","Athens, GA",1/20/2016 0:00,"Athens, GA",1/21/2016 0:00
+398,340,341,342,37566,"Huntington, WV","Huntington, WV",1/20/2016 0:00,"Bowling Green, KY",1/21/2016 0:00
+399,340,341,342,35000,"Tuscaloosa, AL","Gainesville, FL",1/20/2016 0:00,"Tuscaloosa, AL",1/21/2016 0:00
+400,340,342,343,34747,"Charlottesville, VA","Tallahassee, FL",1/20/2016 0:00,"Charlottesville, VA",1/22/2016 0:00
+393,340,341,342,34500,"COLUMBIA, SC","AUBURN, AL",1/20/2016 0:00,"COLUMBIA, SC",1/21/2016 0:00
+395,340,340,341,29640,"Memphis, TN","Memphis, TN",1/20/2016 0:00,"Tampa,FL",1/20/2016 0:00
+402,341,343,344,77000,"South Bend, IN","Durham, NH",1/21/2016 0:00,"South Bend, IN",1/23/2016 0:00
+401,341,343,344,51933,"Univ Park, Pa.","Columbus, Ohio",1/21/2016 0:00,"Univ Park, Pa.",1/23/2016 0:00
+403,341,341,342,16671,"Fayetteville, AR","Oxford, MS",1/21/2016 0:00,"Tuscaloosa, AL",1/21/2016 0:00
+414,342,343,344,76202,"Windsor Locks, CT","Dallas, TX",1/22/2016 0:00,"Windsor Locks, CT",1/23/2016 0:00
+412,342,343,344,76111,"Berryton, KS","Lawrence, KS",1/22/2016 0:00,"Austin, TX",1/23/2016 0:00
+409,342,343,344,58694,"Newark, NJ","Cincinnati, OH",1/22/2016 0:00,"Newark, NJ",1/23/2016 0:00
+407,342,343,344,58646,"Pittsburgh, PA","Tallahassee, FL",1/22/2016 0:00,"Pittsburgh, PA",1/23/2016 0:00
+406,342,343,344,53763,"Univ Park, Pa.","Champaign, Ill.",1/22/2016 0:00,"Univ Park, Pa.",1/23/2016 0:00
+408,342,342,343,51346,"Boston, MA","South Bend, IN",1/22/2016 0:00,"Boston, MA",1/22/2016 0:00
+405,342,343,344,50708,Minneapolis MN,Minneapolis MN,1/22/2016 0:00,Champaign IL ,1/23/2016 0:00
+410,342,343,344,48675,DSM,"Ames, IA",1/22/2016 0:00,"Waco, TX",1/23/2016 0:00
+413,342,344,345,42752,"Baltimore, MD","East Lansing, MI",1/22/2016 0:00,"Baltimore, MD",1/24/2016 0:00
+411,342,343,344,42550,"Austin, TX","Austin, TX",1/22/2016 0:00,"Oklahoma City, OK",1/23/2016 0:00
+404,342,343,344,35350,"Memphis, TN","Tulsa, OK",1/22/2016 0:00,"Memphis, TN",1/23/2016 0:00
+415,342,343,344,34916,"Minneapolis, MN","Madison, WI",1/22/2016 0:00,"Minneapolis, MN",1/23/2016 0:00
+416,343,344,345,47180,"Cedar Rapids, IA","Iowa City, IA",1/23/2016 0:00,"West Lafayette, IN",1/24/2016 0:00
+420,343,344,345,43021,"Lubbock, TX","Lubbock, TX ",1/23/2016 0:00,Manhattan KS,1/24/2016 0:00
+417,343,344,345,38000,"COLUMBIA, SC","STARKVILLE, MS",1/23/2016 0:00,"COLUMBIA, SC",1/24/2016 0:00
+421,343,344,345,34082,"SOUTH BEND, IN","SOUTH BEND, IN",1/23/2016 0:00,"ROANOKE, VA",1/24/2016 0:00
+419,343,343,344,31615,"San Jose, CA","Berkeley/Stanford, CA",1/23/2016 0:00,"Phoenix, AZ",1/23/2016 0:00
+422,343,344,345,29936,"Pittsburgh, PA","Charlottesville, VA",1/23/2016 0:00,"Pittsburgh, PA",1/24/2016 0:00
+418,343,343,344,22900,"Dallas, Tx","Denton, TX",1/23/2016 0:00,"Birmingham, AL",1/23/2016 0:00
+423,344,345,346,51932,"Univ Park, Pa.","Columbus, Ohio",1/24/2016 0:00,"Univ Park, Pa.",1/25/2016 0:00
+424,344,345,346,48780,"Ypsilanti, MI","Ann Arbor, MI",1/24/2016 0:00,"Lincoln, NE",1/25/2016 0:00
+425,344,344,345,15673,"Norfolk, VA","Norfolk, VA",1/24/2016 0:00,"Huntington, WV",1/24/2016 0:00
+427,345,346,347,49965,"Memphis, TN","Orlando, FL",1/25/2016 0:00,"Memphis, TN",1/26/2016 0:00
+426,345,346,347,49922,Minneapolis MN,Minneapolis MN,1/25/2016 0:00,Champaign IL,1/26/2016 0:00
+428,345,346,347,47022,"Madison, WI","Madison, WI",1/25/2016 0:00,"Bloomington, IN",1/26/2016 0:00
+429,345,346,347,43024,"Knoxville, TN","Tuscaloosa, AL",1/25/2016 0:00,"Knoxville, TN",1/26/2016 0:00
+430,345,346,347,33221,"Fresno, CA","Fresno, CA",1/25/2016 0:00,"Laramie, WY",1/26/2016 0:00
+432,345,346,347,26339,LUBBOCK TX,NORMAN OK,1/25/2016 0:00,LUBBOCK TX,1/26/2016 0:00
+431,345,347,348,20990,"Muncie, IN","Buffalo, NY",1/25/2016 0:00,"Muncie, IN",1/27/2016 0:00
+433,346,347,348,127390,"Windsor Locks, CT","Tulsa, OK",1/26/2016 0:00,"Windsor Locks, CT",1/27/2016 0:00
+434,346,347,348,70424,"Minneapolis, MN","Minneapolis, MN",1/26/2016 0:00,"West Lafayette, IN",1/27/2016 0:00
+437,346,347,348,55900,"Austin, TX","Austin, TX",1/26/2016 0:00,"Topeka, KS",1/27/2016 0:00
+439,346,347,348,51562,"Newark, NJ","Bloomington, Indiana",1/26/2016 0:00,"Newark, NJ",1/27/2016 0:00
+436,346,347,348,51000,"Fayetteville, ARK","Fayetteville, ARK",1/26/2016 0:00,"College Station, TX",1/27/2016 0:00
+440,346,347,348,50704,"Newark, NJ","Ann Arbor, Michigan",1/26/2016 0:00,"Newark, NJ",1/27/2016 0:00
+438,346,347,348,50414,"Pittsburgh, PA","Clemson, SC",1/26/2016 0:00,"Pittsburgh, PA",1/27/2016 0:00
+443,346,348,349,47700,"Oakland, CA","Pullman, Washington ",1/26/2016 0:00,"Oakland, CA",1/28/2016 0:00
+444,346,347,348,44853,"San Jose, CA","San Jose, CA",1/26/2016 0:00,"Fort Collins, CO",1/27/2016 0:00
+442,346,347,348,41910,"Columbia, MO","Lexington, KY",1/26/2016 0:00,"Columbia,MO",1/27/2016 0:00
+446,346,347,348,39100,"Boston, MA","Syracuse, NY",1/26/2016 0:00,"Boston, MA",1/27/2016 0:00
+441,346,347,348,35717,"Columbus, MS","Columbia, SC",1/26/2016 0:00,"Columbia, SC",1/27/2016 0:00
+445,346,347,348,34139,"Lansing, MI","Lansing, MI",1/26/2016 0:00,"West Lafayette, IN",1/27/2016 0:00
+435,346,347,348,32500,"Tulsa, OK","Houston, TX",1/26/2016 0:00,"Tulsa, OK",1/27/2016 0:00
+447,346,347,348,29418,LUBBOCK TX,WACO TX,1/26/2016 0:00,LUBBOCK TX,1/27/2016 0:00
+455,347,348,349,47949,"Knoxville, TN","Columbus, MS ",1/27/2016 0:00,"Knoxville, TN",1/28/2016 0:00
+451,347,348,349,46819,"Tuscaloosa, AL","Tuscaloosa, AL",1/27/2016 0:00,"College Station, TX",1/28/2016 0:00
+448,347,348,349,46502,"Miami, FL","Blacksburg, VA",1/27/2016 0:00,"Miami, FL",1/28/2016 0:00
+452,347,348,349,45926,"South Bend, IN","Syracuse, NY",1/27/2016 0:00,"South Bend, IN",1/28/2016 0:00
+454,347,348,349,45926,"Cincinnati, OH","Storrs, CT",1/27/2016 0:00,"Cincinnati, OH",1/28/2016 0:00
+453,347,347,348,44220,SWO,"Stillwater, OK",1/27/2016 0:00,"Waco, TX",1/27/2016 0:00
+457,347,348,349,34802,"South Bend, IN","Atlanta, GA",1/27/2016 0:00,"South Bend, IN",1/28/2016 0:00
+449,347,348,349,34726,"Anderson, SC","Louisville, KY",1/27/2016 0:00,"Anderson, SC",1/28/2016 0:00
+456,347,348,349,29600,"OXFORD, MS","COLUMBIA, SC",1/27/2016 0:00,"COLUMBIA, SC",1/28/2016 0:00
+450,347,347,348,25921,"New Orleans, LA","New Orleans, LA",1/27/2016 0:00,"Tampa,FL",1/27/2016 0:00
+459,348,350,351,90600,"Phila., PA","Omaha, NE",1/28/2016 0:00,"Omaha, NE",1/30/2016 0:00
+460,348,351,352,83100,Tucson,Corvallis/Eugene,1/28/2016 0:00,"Eugene, OR",1/31/2016 0:00
+458,348,348,349,9526,"Pittsburgh, PA",Multiple Locations,1/28/2016 0:00,"Pittsburgh, PA",1/28/2016 0:00
+463,349,351,352,89750,"Windsor Locks, CT","Orlando, FL",1/29/2016 0:00,"Windsor Locks, CT",1/31/2016 0:00
+464,349,350,351,74250,"Memphis, TN","Dallas, TX",1/29/2016 0:00,"Memphis, TN",1/30/2016 0:00
+470,349,350,351,67934,"Newark, NJ","Omaha, NE",1/29/2016 0:00,"Newark, NJ",1/30/2016 0:00
+477,349,350,351,63519,"Ewing Township,NJ","Piscataway, NJ",1/29/2016 0:00,"Lincoln, NE",1/30/2016 0:00
+479,349,350,351,61106,"Knoxville, TN","Fort Worth, TX",1/29/2016 0:00,"Knoxville, TN",1/30/2016 0:00
+465,349,350,351,56550,"Columbus, GA","Auburn, AL",1/29/2016 0:00,"Stillwater, OK",1/30/2016 0:00
+461,349,350,351,53575,"Memphis, TN","Hartford, CT",1/29/2016 0:00,"Memphis, TN",1/30/2016 0:00
+478,349,350,351,52551,"Manhattan, KS","Manhattan, KS",1/29/2016 0:00,"Austin, TX",1/30/2016 0:00
+466,349,350,351,52000,"Lubbock, TX","Lubbock, TX",1/29/2016 0:00,"Topeka, KS",1/30/2016 0:00
+476,349,350,351,49775,"Lafayette, IN","West Lafayette, IN",1/29/2016 0:00,"Lincoln, NE",1/30/2016 0:00
+474,349,350,351,47750,"Des Moines, IA","Ames, IA",1/29/2016 0:00,"Oklahoma City, OK",1/30/2016 0:00
+473,349,350,351,45650,"Baton Rouge, LA","Baton Rouge, LA",1/29/2016 0:00,"Oklahoma City, OK",1/30/2016 0:00
+471,349,350,351,44846,"Boston, MA","Chapel Hill, NC",1/29/2016 0:00,"Boston, MA",1/30/2016 0:00
+468,349,351,352,42942,"Tuscaloosa, AL","Columbia, SC",1/29/2016 0:00,"Tuscaloosa, AL",1/31/2016 0:00
+481,349,350,351,42714,"State College, PA","State College, PA",1/29/2016 0:00,"West Lafayette, IN",1/30/2016 0:00
+480,349,350,351,42000,"Charlottesville, VA","Louisville, KY",1/29/2016 0:00,"Charlottesville, VA",1/30/2016 0:00
+469,349,350,351,41711,LUBBOCK TX,FAYETTEVILLE AR,1/29/2016 0:00,LUBBOCK TX,1/30/2016 0:00
+462,349,350,351,40628,"Miami, FL","Raleigh, NC",1/29/2016 0:00,"Miami, FL",1/30/2016 0:00
+483,349,350,351,36200,"OXFORD, MS","MANHATTAN, KS",1/29/2016 0:00,"MANHATTAN, KS",1/30/2016 0:00
+475,349,350,351,35406,"Columbus, MS","Columbia, MO",1/29/2016 0:00,"Columbia, MO",1/30/2016 0:00
+472,349,350,351,34700,"Minneapolis, MN","Bloomington, IN",1/29/2016 0:00,"Minneapolis, MN",1/30/2016 0:00
+482,349,350,351,33511,"Baltimore, MD","College Park, MD",1/29/2016 0:00,"Bloomington, IN",1/30/2016 0:00
+467,349,350,351,33006,"Anderson, SC","Tallahassee, FL",1/29/2016 0:00,"Anderson, SC",1/30/2016 0:00
+488,350,351,352,80148,"PITTSBURGH, PA","PITTSBURGH, PA",1/30/2016 0:00,"SYRACUSE, NY",1/31/2016 0:00
+484,350,351,352,57700,"Gainesville, FL","Gainesville, FL",1/30/2016 0:00,"Lexington, KY",1/31/2016 0:00
+485,350,351,352,52000,"COLUMBIA, SC","COLLEGE STATION, TX",1/30/2016 0:00,"COLUMBIA, SC",1/31/2016 0:00
+486,350,351,352,40965,"Columbus, MS","Fayetteville, AR",1/30/2016 0:00,"Fayetteville, AR",1/31/2016 0:00
+492,350,351,352,38103,"Pittsburgh, PA","Clemson, SC",1/30/2016 0:00,"Pittsburgh, PA",1/31/2016 0:00
+490,350,351,352,37910,"Baltimore, MD","Columbus, OH",1/30/2016 0:00,"Baltimore, MD",1/31/2016 0:00
+491,350,351,352,36548,"TALLAHASSEE, FL","TALLAHASSEE, FL",1/30/2016 0:00,"ROANOKE, VA",1/31/2016 0:00
+487,350,351,352,36191,"Minneapolis, MN","Ann Arbor, MI",1/30/2016 0:00,"Minneapolis, MN",1/31/2016 0:00
+489,350,351,352,34900,"Columbia, MO","Oxford,MS",1/30/2016 0:00,"Columbia, MO",1/31/2016 0:00
+493,350,351,352,32356,"Tuscaloosa, AL","Knoxville, TN",1/30/2016 0:00,"Tuscaloosa, AL",1/31/2016 0:00
+494,351,352,353,65587,Raleigh-Durham,"Tallahassee, Fla",1/31/2016 0:00,"Raleigh, NC",2/1/2016 0:00
+495,351,352,353,45926,"South Bend, IN","Durham, NC",1/31/2016 0:00,"South Bend, IN",2/1/2016 0:00
+496,352,353,354,55562,"Univ Park, Pa.","Lincoln , Neb.",2/1/2016 0:00,"Univ Park, Pa.",2/2/2016 0:00
+497,352,353,354,48638,"Ypsilanti, MI","Ann Arbor, MI",2/1/2016 0:00,"Bloomington, IN",2/2/2016 0:00
+498,352,353,354,45519,"Baltimore, MD","West Lafayette, IN",2/1/2016 0:00,"Baltimore, MD",2/2/2016 0:00
+499,352,355,356,44515,"Ruston, LA","Ruston, LA & Hattiesburg, MS",2/1/2016 0:00,"Bowling Green, KY",2/4/2016 0:00
+500,352,353,354,29000,"Knoxville, TN","Knoxville, TN",2/1/2016 0:00,"Lexington, KY",2/2/2016 0:00
+501,353,354,355,119556,"Windsor Locks, CT","New Orleans, LA",2/2/2016 0:00,"Windsor Locks, CT",2/3/2016 0:00
+506,353,385,386,63678,"Newark, NJ","Indianapolis, IN",2/2/2016 0:00,"Newark, NJ",3/5/2016 0:00
+503,353,354,355,54429,"Univ Park, Pa.","Iowa City, Iowa",2/2/2016 0:00,"Univ Park, Pa.",2/3/2016 0:00
+502,353,354,355,47366,"Lubbock, TX","Lubock, TX",2/2/2016 0:00,"Stillwater, OK",2/3/2016 0:00
+504,353,354,355,45926,"South Bend, IN","Miami, FL",2/2/2016 0:00,"South Bend, IN",2/3/2016 0:00
+507,353,355,356,43476,"Waco, TX","Waco, TX",2/2/2016 0:00,Manhattan KS,2/4/2016 0:00
+508,353,354,355,42382,"San Diego, CA","San Diego, CA",2/2/2016 0:00,"Fort Collins, CO",2/3/2016 0:00
+505,353,354,355,41671,"Boston, MA","Charlottesville, VA",2/2/2016 0:00,"Boston, MA",2/3/2016 0:00
+510,353,354,355,36300,"OXFORD, MS","COLUMBIA, MO",2/2/2016 0:00,"COLUMBIA, MO",2/3/2016 0:00
+509,353,354,355,31992,"Cincinnati, OH","Tampa Bay, FL",2/2/2016 0:00,"Cincinnati, OH",2/3/2016 0:00
+513,354,355,356,80000,"Windsor Locks, CT","Memphis, TN",2/3/2016 0:00,"Windsor Locks, CT",2/4/2016 0:00
+515,354,355,356,66500,"Nashville, TN","Nashville, TN",2/3/2016 0:00,"College Station, TX",2/4/2016 0:00
+521,354,356,357,61775,"Tulsa, OK","Philadelphia, PA",2/3/2016 0:00,"Tulsa, OK",2/5/2016 0:00
+519,354,355,356,61487,"Newark, NJ","Minneapolis, MN",2/3/2016 0:00,"Newark, NJ",2/4/2016 0:00
+512,354,355,356,56022,"Miami, FL","Chestnut Hill, MA",2/3/2016 0:00,"Miami, FL",2/4/2016 0:00
+518,354,355,356,53577,"Gainesville, FL","Gainesville, FL",2/3/2016 0:00,"College Station, TX",2/4/2016 0:00
+514,354,356,357,51778,"Columbia, SC","Columbia, SC",2/3/2016 0:00,"Lexington, KY",2/5/2016 0:00
+516,354,355,356,43240,"Anderson, SC","Syracuse, NY",2/3/2016 0:00,"Anderson, SC",2/4/2016 0:00
+517,354,355,356,37686,"Columbus, MS","Baton Rouge, LA",2/3/2016 0:00,"Baton Rouge, LA",2/4/2016 0:00
+520,354,355,356,32350,"Minneapolis, MN","Evanston, IL",2/3/2016 0:00,"Minneapolis, MN",2/4/2016 0:00
+511,354,359,360,10384,"Madison, WI","Madison, WI",2/3/2016 0:00,"Stillwater, OK",2/8/2016 0:00
+524,355,357,358,74000,"South Bend, IN","Burlington, VT",2/4/2016 0:00,"South Bend, IN",2/6/2016 0:00
+522,355,357,358,58207,"Univ Park, Pa.","Minneapolis,  Minn.",2/4/2016 0:00,"Univ Park, Pa.",2/6/2016 0:00
+523,355,355,356,31941,"Cincinnati, OH","Cincinnati, OH",2/4/2016 0:00,"Tampa,FL",2/4/2016 0:00
+525,356,357,358,73801,"Baltimore, MD","College Park, MD",2/5/2016 0:00,"West Lafayette, IN",2/6/2016 0:00
+531,356,357,358,64172,"Newark, NJ","Lincoln, NE",2/5/2016 0:00,"Newark, NJ",2/6/2016 0:00
+539,356,357,358,55204,"Knoxville, TN","Fayetteville, AR",2/5/2016 0:00,"Knoxville, TN",2/6/2016 0:00
+530,356,357,358,54655,"Seattle, WA","Pullman, WA",2/5/2016 0:00,"Phoenix, AZ",2/6/2016 0:00
+535,356,357,358,54156,"Clarksburg, WV","Morgantown, WV",2/5/2016 0:00,Manhattan KS,2/6/2016 0:00
+529,356,357,358,53850,"State College, PA","University Park, PA",2/5/2016 0:00,"Bloomington, IN",2/6/2016 0:00
+528,356,357,358,53500,"COLUMBIA, SC","COLLEGE STATION, TX",2/5/2016 0:00,"COLUMBIA, SC",2/6/2016 0:00
+537,356,357,358,52348,"Des Moines, IA","Ames, IA",2/5/2016 0:00,"Austin, TX",2/6/2016 0:00
+526,356,357,358,51500,"Waco, TX","Waco, TX",2/5/2016 0:00,"Topeka, KS",2/6/2016 0:00
+532,356,357,358,51346,"Boston, MA","Louisville, KY",2/5/2016 0:00,"Boston, MA",2/6/2016 0:00
+533,356,357,358,47500,"Manhattan, KS","Manhattan, KS",2/5/2016 0:00,"Oklahoma City, OK",2/6/2016 0:00
+538,356,357,358,46000,"Phila., PA","Providence, RI",2/5/2016 0:00,"Providence, RI",2/6/2016 0:00
+536,356,357,358,43770,"Columbia, MO","Tuscaloosa, AL",2/5/2016 0:00,"Columbia,MO",2/6/2016 0:00
+540,356,357,358,37700,"Charlottesville, VA","Pittsburgh, PA",2/5/2016 0:00,"Charlottesville, VA",2/6/2016 0:00
+527,356,357,358,32877,"Anderson, SC","Blacksburg, VA",2/5/2016 0:00,"Anderson, SC",2/6/2016 0:00
+541,356,357,358,31516,"Cincinnati, OH","Memphis, TN",2/5/2016 0:00,"Cincinnati, OH",2/6/2016 0:00
+534,356,357,358,30002,"Columbus, MS","Baton Rouge, LA",2/5/2016 0:00,"Baton Rouge, LA",2/6/2016 0:00
+543,356,357,358,26339,LUBBOCK TX,AUSTIN TX,2/5/2016 0:00,LUBBOCK TX,2/6/2016 0:00
+542,356,357,358,20990,"Muncie, IN","Buffalo, NY",2/5/2016 0:00,"Muncie, IN",2/6/2016 0:00
+550,357,358,359,61720,"Knoxville, TN","College Station, TX",2/6/2016 0:00,"Knoxville, TN",2/7/2016 0:00
+545,357,357,358,44900,"San Antonio, Tx","San Antonio, TX",2/6/2016 0:00,"Huntington, WV",2/6/2016 0:00
+549,357,358,359,43910,"Bloomington, IN","Bloomington, IN",2/6/2016 0:00,"Lincoln, NE",2/7/2016 0:00
+544,357,358,359,41893,Ypsilanti MI,Ann Arbor MI,2/6/2016 0:00,Champaign IL,2/7/2016 0:00
+551,357,358,359,41451,"Minneapolis, MN","Evanston, IL",2/6/2016 0:00,"Minneapolis, MN",2/7/2016 0:00
+546,357,358,359,36800,"Columbia, MO","Starkville, MS",2/6/2016 0:00,"Columbia, MO",2/7/2016 0:00
+548,357,357,358,35700,"Miami, FL",Boca Raton,2/6/2016 0:00,"Birmingham, AL",2/6/2016 0:00
+547,357,358,359,33006,"Anderson, SC","Tallahassee, FL",2/6/2016 0:00,"Anderson, SC",2/7/2016 0:00
+554,357,358,359,30491,LUBBOCK TX,STILLWATER OK,2/6/2016 0:00,LUBBOCK TX,2/7/2016 0:00
+552,357,358,359,27900,"OXFORD, MS","ATHENS, GA",2/6/2016 0:00,"ATHENS, GA",2/7/2016 0:00
+553,357,358,359,26983,"South Bend, IN","Louisville, KY",2/6/2016 0:00,"South Bend, IN",2/7/2016 0:00
+555,358,359,360,79233,"Windsor Locks, CT","Columbia, SC",2/7/2016 0:00,"Windsor Locks, CT",2/8/2016 0:00
+558,358,359,360,69961,"Oklahoma City, OK","Norman, OK",2/7/2016 0:00,"Austin, TX",2/8/2016 0:00
+556,358,358,359,50887,Philadephia PA,Philadephia PA,2/7/2016 0:00,Milwaukee WI,2/7/2016 0:00
+557,358,359,360,45926,"South Bend, IN","Clemson, SC",2/7/2016 0:00,"South Bend, IN",2/8/2016 0:00
+559,358,359,360,34798,"Madison, WI","Madison, WI",2/7/2016 0:00,"West Lafayette, IN",2/8/2016 0:00
+563,359,360,361,74000,"Phila., PA","Chicago, IL",2/8/2016 0:00,"Chicago, IL",2/9/2016 0:00
+560,359,360,361,69361,"Pittsburgh, PA","Miami, FL",2/8/2016 0:00,"Pittsburgh, PA",2/9/2016 0:00
+561,359,360,361,47500,"Manhattan, KS","Manhattan, KS",2/8/2016 0:00,"Oklahoma City, OK",2/9/2016 0:00
+562,359,360,361,46960,"Cincinnati, OH","Orlando, FL",2/8/2016 0:00,"Cincinnati, OH",2/9/2016 0:00
+564,359,360,361,36200,"OXFORD, MS","GAINESVILLE, FL",2/8/2016 0:00,"GAINESVILLE, FL",2/9/2016 0:00
+566,360,361,362,57000,"Tuscaloosa, AL","Tuscaloosa, AL",2/9/2016 0:00,"College Station, TX",2/10/2016 0:00
+565,360,361,362,47595,"Memphis, TN","Orlando, FL",2/9/2016 0:00,"Memphis, TN",2/10/2016 0:00
+567,360,361,362,46150,"Austin, TX","Austin, TX",2/9/2016 0:00,"Stillwater, OK",2/10/2016 0:00
+570,360,361,362,43660,"Madison, WI","Madison, WI",2/9/2016 0:00,"Lincoln, NE",2/10/2016 0:00
+569,360,361,362,37750,"Columbia, MO","Nashville, TN",2/9/2016 0:00,"Columbia, MO",2/10/2016 0:00
+571,360,361,362,33238,"Boise, ID","Boise, ID",2/9/2016 0:00,"Fort Collins, CO",2/10/2016 0:00
+568,360,361,362,24995,"Tulsa, OK","Dallas, TX",2/9/2016 0:00,"Tulsa, OK",2/10/2016 0:00
+577,361,362,363,50165,"Boston, MA","Raleigh, NC",2/10/2016 0:00,"Boston, MA",2/11/2016 0:00
+574,361,362,363,46960,"Univ Park, Pa.","East Lansing, Mich.",2/10/2016 0:00,"Univ Park, Pa.",2/11/2016 0:00
+573,361,362,363,46939,"Windsor Locks, CT","Philadelphia, PA",2/10/2016 0:00,"Windsor Locks, CT",2/11/2016 0:00
+575,361,362,363,44900,"Columbus, MS","College Station, TX",2/10/2016 0:00,"College Station, TX",2/11/2016 0:00
+572,361,362,363,38319,"Miami, FL","Atlanta, GA",2/10/2016 0:00,"Miami, FL",2/11/2016 0:00
+579,361,362,363,36656,"Tuscaloosa, AL","Columbia, MO",2/10/2016 0:00,"Tuscaloosa, AL",2/11/2016 0:00
+576,361,362,363,36043,"Baltimore, MD","College Park, MD",2/10/2016 0:00,"West Lafayette, IN",2/11/2016 0:00
+578,361,362,363,33200,Minneapolis/St. Paul,"Minneapolis, MN",2/10/2016 0:00,"Lincoln, NE",2/11/2016 0:00
+581,362,365,366,62929,"Minneapolis, MN","Columbus, OH",2/11/2016 0:00,"Minneapolis, MN",2/14/2016 0:00
+580,362,364,365,51162,"Univ Park, Pa.","East Lansing, Mich.",2/11/2016 0:00,"Univ Park, Pa.",2/13/2016 0:00
+582,362,363,364,24000,"Columbia, MO","Lexington, KY",2/11/2016 0:00,"Columbia, MO",2/12/2016 0:00
+592,363,364,365,79678,"Des Moines, IA","Ames, IA",2/12/2016 0:00,"Austin, TX",2/13/2016 0:00
+586,363,364,365,65895,"Tulsa, OK","Hartford, CT",2/12/2016 0:00,"Tulsa, OK",2/13/2016 0:00
+585,363,364,365,65340,"Memphis, TN","New Orleans, LA",2/12/2016 0:00,"Memphis, TN",2/13/2016 0:00
+588,363,364,365,60229,"Univ Park, Pa.","Lincoln, Neb.",2/12/2016 0:00,"Univ Park, Pa.",2/13/2016 0:00
+583,363,364,365,58900,"Memphis, TN","Greenville, NC",2/12/2016 0:00,"Memphis, TN",2/13/2016 0:00
+590,363,364,365,54717,"Newark, NJ","Champaign, IL",2/12/2016 0:00,"Newark, NJ",2/13/2016 0:00
+593,363,364,365,53237,"Knoxville, TN","Columbia, MO",2/12/2016 0:00,"Knoxville, TN",2/13/2016 0:00
+587,363,364,365,47000,"Baton Rouge, LA","Baton Rouge, LA",2/12/2016 0:00,"College Station, TX",2/13/2016 0:00
+595,363,364,365,45468,"Buffalo, NY","Buffalo, NY",2/12/2016 0:00,"Athens, OH",2/13/2016 0:00
+584,363,364,365,44002,"Ypsilanti, MI","Ann Arbor, MI",2/12/2016 0:00,"West Lafayette, IN",2/13/2016 0:00
+589,363,365,366,43944,"Tuscaloosa, AL","Gainesville, FL",2/12/2016 0:00,"Tuscaloosa, AL",2/14/2016 0:00
+591,363,364,365,42808,LBB,"Lubbock, TX",2/12/2016 0:00,"Waco, TX",2/13/2016 0:00
+594,363,364,365,26778,"Boise, ID","Boise, ID",2/12/2016 0:00,"Laramie, WY",2/13/2016 0:00
+596,363,364,365,26339,LUBBOCK TX,WACO TX,2/12/2016 0:00,LUBBOCK TX,2/13/2016 0:00
+598,364,365,366,55660,"Miami, FL","South Bend, IN",2/13/2016 0:00,"Miami, FL",2/14/2016 0:00
+599,364,365,366,47735,"Pittsburgh, PA","Chapel Hill, NC",2/13/2016 0:00,"Pittsburgh, PA",2/14/2016 0:00
+600,364,365,366,46870,"Lansing, MI","East Lansing, MI",2/13/2016 0:00,"Bloomington, IN",2/14/2016 0:00
+603,364,365,366,46524,"Oklahoma City, OK","Norman, OK",2/13/2016 0:00,"Austin, TX",2/14/2016 0:00
+601,364,365,366,45506,"Oxford, MS","Oxford, MS",2/13/2016 0:00,"College Station, TX",2/14/2016 0:00
+602,364,365,366,37775,"Minneapolis, MN","Iowa City, IA",2/13/2016 0:00,"Minneapolis, MN",2/14/2016 0:00
+606,364,365,366,37086,"Charlottesville, VA","Chestnut Hill, MA",2/13/2016 0:00,"Charlottesville, VA",2/14/2016 0:00
+597,364,365,366,36246,"Miami, FL","Tallahassee, FL",2/13/2016 0:00,"Miami, FL",2/14/2016 0:00
+605,364,365,366,34918,"Windsor Locks, CT","Philadelphia, PA",2/13/2016 0:00,"Windsor Locks, CT",2/14/2016 0:00
+604,364,365,366,31098,"Pittsburgh, PA","Blacksburg, VA",2/13/2016 0:00,"Pittsburgh, PA",2/14/2016 0:00
+607,365,366,367,34800,"COLUMBIA, SC","KNOXVILLE, TN",2/14/2016 0:00,"COLUMBIA, SC",2/15/2016 0:00
+609,366,367,368,55067,"Newark, NJ","Champaign, IL",2/15/2016 0:00,"Newark, NJ",2/16/2016 0:00
+608,366,367,368,42100,"COLUMBIA, SC","COLUMBIA, MO",2/15/2016 0:00,"COLUMBIA, SC",2/16/2016 0:00
+610,366,367,368,33500,"OXFORD, MS","COLLEGE STATION, TX",2/15/2016 0:00,"COLLEGE STATION, TX",2/16/2016 0:00
+620,367,368,369,66475,"MIAMI, FL","MIAMI, FL",2/16/2016 0:00,"ROANOKE, VA",2/17/2016 0:00
+619,367,368,369,58950,"Clarksburg, WV","Morgantown, WV",2/16/2016 0:00,"Oklahoma City, OK",2/17/2016 0:00
+614,367,368,369,48704,"Univ Park, Pa.","Evanston, Ill.",2/16/2016 0:00,"Univ Park, Pa.",2/17/2016 0:00
+622,367,368,369,46951,"Austin, TX","Austin, TX",2/16/2016 0:00,Manhattan KS,2/17/2016 0:00
+613,367,368,369,45230,"Waco, TX ","Waco, TX",2/16/2016 0:00,"Stillwater, OK",2/17/2016 0:00
+617,367,368,369,44121,"Boston, MA","Greenville, SC",2/16/2016 0:00,"Boston, MA",2/17/2016 0:00
+623,367,368,369,43960,"Bloomington, IN","Bloomington, IN",2/16/2016 0:00,"Lincoln, NE",2/17/2016 0:00
+618,367,368,369,43850,"Lubbock, TX","Lubbock, TX",2/16/2016 0:00,"Oklahoma City, OK",2/17/2016 0:00
+621,367,368,369,40401,"Fort Worth, TX","Fort Worth, TX",2/16/2016 0:00,Manhattan KS,2/17/2016 0:00
+612,367,368,369,39555,Madison WI,Madison WI,2/16/2016 0:00,Champaign IL ,2/17/2016 0:00
+615,367,369,370,39350,"Tuscaloosa, AL","Baton Rouge, LA",2/16/2016 0:00,"Tuscaloosa, AL",2/18/2016 0:00
+627,367,369,370,39200,LUBBOCK TX,AMES IA,2/16/2016 0:00,LUBBOCK TX,2/18/2016 0:00
+611,367,368,369,38772,Madison WI,Madison WI,2/16/2016 0:00,Champaign IL,2/17/2016 0:00
+624,367,368,369,38727,"Fresno, CA","Fresno, CA",2/16/2016 0:00,"Laramie, WY",2/17/2016 0:00
+625,367,368,369,30351,"Cincinnati, OH","Storrs, CT",2/16/2016 0:00,"Cincinnati, OH",2/17/2016 0:00
+616,367,367,368,27684,"Greenville, NC","Greenville, NC",2/16/2016 0:00,"Tampa,FL",2/16/2016 0:00
+626,367,368,369,18470,"Muncie, IN","DeKalb, IL",2/16/2016 0:00,"Muncie, IN",2/17/2016 0:00
+628,368,370,371,58495,"Starkville, MS","Starkville, MS",2/17/2016 0:00,"Lexington, KY",2/19/2016 0:00
+634,368,369,370,56800,"Boston, MA","Greenville, SC",2/17/2016 0:00,"Boston, MA",2/18/2016 0:00
+630,368,369,370,45926,"Cincinnati, OH","Tulsa, OK",2/17/2016 0:00,"Cincinnati, OH",2/18/2016 0:00
+636,368,369,370,36119,"Tuscaloosa, AL","Fayetteville, AR",2/17/2016 0:00,"Tuscaloosa, AL",2/18/2016 0:00
+632,368,369,370,36043,"Cedar Rapids, IA","Iowa City, IA",2/17/2016 0:00,"West Lafayette, IN",2/18/2016 0:00
+637,368,369,370,35300,"Huntington, WV","Huntington, WV",2/17/2016 0:00,"Bowling Green, KY",2/18/2016 0:00
+633,368,369,370,34769,"Pittsburgh, PA","Chapel Hill, NC",2/17/2016 0:00,"Pittsburgh, PA",2/18/2016 0:00
+629,368,369,370,33569,"Minneapolis, MN","Bloomington, IN",2/17/2016 0:00,"Minneapolis, MN",2/18/2016 0:00
+638,368,369,370,33562,"South Bend, IN","Winston-Salem, NC",2/17/2016 0:00,"South Bend, IN",2/18/2016 0:00
+639,368,369,370,28798,"Charlottesville, VA","Louisville, KY",2/17/2016 0:00,"Charlottesville, VA",2/18/2016 0:00
+631,368,369,370,24541,"Logan, UT","Logan, UT",2/17/2016 0:00,"Fort Collins, CO",2/18/2016 0:00
+635,368,369,370,24500,"OXFORD, MS","KNOXVILLE, TN",2/17/2016 0:00,"KNOXVILLE, TN",2/18/2016 0:00
+640,369,371,372,72000,"South Bend, IN","Providence, RI",2/18/2016 0:00,"South Bend, IN",2/20/2016 0:00
+647,370,371,372,58950,"Clarksburg, WV","Morgantown, WV",2/19/2016 0:00,"Oklahoma City, OK",2/20/2016 0:00
+643,370,371,372,52540,"Univ Park, Pa.","Ann Arbor, Mich.",2/19/2016 0:00,"Univ Park, Pa.",2/20/2016 0:00
+642,370,371,372,49680,"Memphis, TN","Tampa, FL",2/19/2016 0:00,"Memphis, TN",2/20/2016 0:00
+648,370,371,372,48450,"Topeka, KS","Manhattan, KS",2/19/2016 0:00,"Oklahoma City, OK",2/20/2016 0:00
+650,370,371,372,47814,"Windsor Locks, CT","Cincinnti, OH",2/19/2016 0:00,"Windsor Locks, CT",2/20/2016 0:00
+646,370,371,372,45926,"South Bend, IN","Atlanta, GA",2/19/2016 0:00,"South Bend, IN",2/20/2016 0:00
+645,370,371,372,45802,"Pittsburgh, PA","Syracuse, NY",2/19/2016 0:00,"Pittsburgh, PA",2/20/2016 0:00
+651,370,371,372,41310,"Windsor Locks, CT","Greensville, NC",2/19/2016 0:00,"Windsor Locks, CT",2/20/2016 0:00
+641,370,371,372,40628,"Miami, FL","Chapel Hill, NC",2/19/2016 0:00,"Miami, FL",2/20/2016 0:00
+649,370,371,372,32800,"Columbia, MO","Fayetteville, AR",2/19/2016 0:00,"Columbia, MO",2/20/2016 0:00
+644,370,371,372,31802,"Anderson, SC","Raleigh, NC",2/19/2016 0:00,"Anderson, SC",2/20/2016 0:00
+652,370,371,372,29500,"OXFORD, MS","AUBURN, AL",2/19/2016 0:00,"COLUMBUS, GA",2/20/2016 0:00
+653,370,372,373,26339,LUBBOCK TX,STILLWATER OK,2/19/2016 0:00,LUBBOCK TX,2/21/2016 0:00
+657,371,372,373,58000,"Westfield, Ma","Davidson, NC",2/20/2016 0:00,"Westfield, Ma",2/21/2016 0:00
+663,371,372,373,55162,"Knoxville, TN","Baton Rouge, LA",2/20/2016 0:00,"Knoxville, TN",2/21/2016 0:00
+656,371,372,373,52800,"Tulsa, OK","Orlando, FL",2/20/2016 0:00,"Tulsa, OK",2/21/2016 0:00
+660,371,372,373,51370,"Nashville, TN","Nashville, TN",2/20/2016 0:00,"College Station, TX",2/21/2016 0:00
+665,371,372,373,49493,"MIAMI, FL","MIAMI, FL",2/20/2016 0:00,"ROANOKE, VA",2/21/2016 0:00
+654,371,372,373,47595,"Memphis, TN","Tampa, FL",2/20/2016 0:00,"Memphis, TN",2/21/2016 0:00
+661,371,372,373,44886,"Boston, MA","Winston Salem, NC",2/20/2016 0:00,"Boston, MA",2/21/2016 0:00
+666,371,372,373,44641,"Lincoln, NE","Lincoln, NE",2/20/2016 0:00,"West Lafayette, IN",2/21/2016 0:00
+655,371,372,373,43275,Columbus OH,Columbus OH,2/20/2016 0:00,Champaign IL,2/21/2016 0:00
+662,371,372,373,41400,"Columbia, MO","Auburn, AL",2/20/2016 0:00,"Columbia, MO",2/21/2016 0:00
+659,371,372,373,37554,"Minneapolis, MN","East Lansing, MI",2/20/2016 0:00,"Minneapolis, MN",2/21/2016 0:00
+658,371,372,373,34210,"Anderson, SC","Charlottesville, VA",2/20/2016 0:00,"Anderson, SC",2/21/2016 0:00
+668,371,372,373,33450,LUBBOCK TX,MANHATTAN KS,2/20/2016 0:00,LUBBOCK TX,2/21/2016 0:00
+664,371,372,373,28469,"Ypsilanti, MI","ANN ARBOR, MI",2/20/2016 0:00,"ROANOKE, VA",2/21/2016 0:00
+667,371,372,373,27577,"Cedar Rapids, IA","Iowa City, IA",2/20/2016 0:00,"Bloomington, IN",2/21/2016 0:00
+673,372,373,374,76420,"Manhattan, KS","Manhattan, KS",2/21/2016 0:00,"Austin, TX",2/22/2016 0:00
+674,372,373,374,55200,"Charlottesville, VA","Coral Gables, FL",2/21/2016 0:00,"Charlottesville, VA",2/22/2016 0:00
+671,372,373,374,45926,"South Bend, IN","Tallahassee, FL",2/21/2016 0:00,"South Bend, IN",2/22/2016 0:00
+672,372,373,374,43599,OKC,"Norman, OK",2/21/2016 0:00,"Waco, TX",2/22/2016 0:00
+670,372,374,375,36500,"COLUMBIA, SC","TUSCALOOSA, AL",2/21/2016 0:00,"COLUMBIA, SC",2/23/2016 0:00
+675,372,372,373,30300,"Eugene, Oregon","Eugene, Oregon",2/21/2016 0:00,"Oakland, CA",2/21/2016 0:00
+669,372,372,373,21477,"State College, PA","State College, PA",2/21/2016 0:00,"Stillwater, OK",2/21/2016 0:00
+677,373,374,375,64412,"BOSTON, MA","CHESTNUT HILL, MA",2/22/2016 0:00,"ROANOKE, VA",2/23/2016 0:00
+676,373,374,375,61837,"Newark, NJ","Minneapolis, MN",2/22/2016 0:00,"Newark, NJ",2/23/2016 0:00
+678,373,374,375,36990,"Columbia, MO","Oxford,MS",2/22/2016 0:00,"Columbia, MO",2/23/2016 0:00
+684,374,375,376,62500,"Phila., PA","Cincinnati, OH",2/23/2016 0:00,"Cincinnati, OH",2/24/2016 0:00
+680,374,375,376,47417,"Lincoln, NE","Lincoln, NE",2/23/2016 0:00,"Bloomington, IN",2/24/2016 0:00
+679,374,375,376,45926,"South Bend, IN","Winston-Salem, NC",2/23/2016 0:00,"South Bend, IN",2/24/2016 0:00
+683,374,375,376,44755,"Lubbock, TX","Lubbock, TX",2/23/2016 0:00,"Austin, TX",2/24/2016 0:00
+685,374,375,376,44712,"Knoxville, TN","Columbia, SC",2/23/2016 0:00,"Knoxville, TN",2/24/2016 0:00
+682,374,375,376,38436,"Ames, IA","Ames, IA",2/23/2016 0:00,Manhattan KS,2/24/2016 0:00
+681,374,375,376,37796,"Columbus, MS","College Station, TX",2/23/2016 0:00,"College Station, TX",2/24/2016 0:00
+686,374,375,376,31994,"San Diego, CA","San Diego, CA",2/23/2016 0:00,"Laramie, WY",2/24/2016 0:00
+687,374,375,376,25604,"Albuquerque, NM","Albuquerque, NM",2/23/2016 0:00,"Fort Collins, CO",2/24/2016 0:00
+688,375,376,377,83760,"Windsor Locks, CT","Tampa, FL",2/24/2016 0:00,"Windsor Locks, CT",2/25/2016 0:00
+694,375,376,377,49864,"Auburn, AL","Auburn, AL",2/24/2016 0:00,"College Station, TX",2/25/2016 0:00
+698,375,379,380,49163,"Pullman, WA","Eugene, OR",2/24/2016 0:00,"Pullman, WA",2/28/2016 0:00
+697,375,376,377,47293,"Knoxville, TN","Tuscaloosa, AL",2/24/2016 0:00,"Knoxville, TN",2/25/2016 0:00
+689,375,377,378,39900,"COLUMBIA, SC","OXFORD, MS",2/24/2016 0:00,"COLUMBIA, SC",2/26/2016 0:00
+692,375,375,376,39250,"Birmingham, AL","Huntington, WV",2/24/2016 0:00,"Huntington, WV",2/24/2016 0:00
+690,375,376,377,39026,"Anderson, SC","South Bend, IN",2/24/2016 0:00,"Anderson, SC",2/25/2016 0:00
+695,375,376,377,36800,"Columbia, MO","Lexington, KY",2/24/2016 0:00,"Columbia, MO",2/25/2016 0:00
+693,375,375,376,36232,"Tulsa, OK","Tulsa, OK",2/24/2016 0:00,"Tampa,FL",2/24/2016 0:00
+691,375,376,377,35975,"Columbus, MS","Nashville, TN",2/24/2016 0:00,"Nashville, TN",2/25/2016 0:00
+696,375,376,377,29660,"State College, PA","State College, PA",2/24/2016 0:00,"Lincoln, NE",2/25/2016 0:00
+701,376,379,380,69715,"Los Angeles, CA","Malibu, CA",2/25/2016 0:00,"College Station, TX",2/28/2016 0:00
+700,376,376,377,52645,"Newark, NJ","West Lafayette, IN",2/25/2016 0:00,"Newark, NJ",2/25/2016 0:00
+699,376,379,380,47788,"Fayetteville, AR","Houston, TX",2/25/2016 0:00,"Fayetteville, AR",2/28/2016 0:00
+717,377,378,379,74000,"Phila., PA","Milwaukie, WI",2/26/2016 0:00,"Milwaukie, WI",2/27/2016 0:00
+703,377,378,379,65587,Raleigh-Durham,"Syracuse, NY",2/26/2016 0:00,"Raleigh, NC",2/27/2016 0:00
+704,377,378,379,61000,"Columbia, MO","Columbia, MO",2/26/2016 0:00,"College Station, TX",2/27/2016 0:00
+705,377,378,379,57761,"Clarksburg, WV","Morgantown, WV",2/26/2016 0:00,"Stillwater, OK",2/27/2016 0:00
+711,377,378,379,57752,"Newark, NJ","Evanston, IL",2/26/2016 0:00,"Newark, NJ",2/27/2016 0:00
+706,377,378,379,53815,"Univ Park, Pa.","Bloomington, Ind.",2/26/2016 0:00,"Univ Park, Pa.",2/27/2016 0:00
+713,377,378,379,49155,MHK,"Manhattan, KS",2/26/2016 0:00,"Waco, TX",2/27/2016 0:00
+709,377,378,379,45926,"Westover, Ma","Olean, NY",2/26/2016 0:00,"Westover, Ma",2/27/2016 0:00
+710,377,378,379,45926,"South Bend, IN","Tallahassee, FL",2/26/2016 0:00,"South Bend, IN",2/27/2016 0:00
+715,377,378,379,45926,"Cincinnati, OH","Greenville, NC",2/26/2016 0:00,"Cincinnati, OH",2/27/2016 0:00
+716,377,378,379,45519,"Baltimore, MD","West Lafayette, IN",2/26/2016 0:00,"Baltimore, MD",2/27/2016 0:00
+708,377,378,379,43711,LUBBOCK TX,LAWRENCE,2/26/2016 0:00,LUBBOCK TX,2/27/2016 0:00
+712,377,378,379,42550,"Austin, TX","Austin, TX",2/26/2016 0:00,"Oklahoma City, OK",2/27/2016 0:00
+702,377,378,379,38570,Cedar Rapids IA,Iowa City IA,2/26/2016 0:00,Champaign IL,2/27/2016 0:00
+714,377,378,379,38436,"Ames, IA","Ames, IA",2/26/2016 0:00,Manhattan KS,2/27/2016 0:00
+722,377,378,379,36300,"OXFORD, MS","ATHENS, GA",2/26/2016 0:00,"ATHENS, GA",2/27/2016 0:00
+707,377,378,379,35000,"COLUMBIA, SC","STARKVILLE, MS",2/26/2016 0:00,"COLUMBIA, SC",2/27/2016 0:00
+723,377,378,379,34598,LUBBOCK TX,LAWRENCE KS,2/26/2016 0:00,LUBBOCK TX,2/27/2016 0:00
+718,377,378,379,30000,"Nashville, TN","Nashville, TN",2/26/2016 0:00,"Lexington, KY",2/27/2016 0:00
+719,377,378,379,23750,"Parkersburg, WV","Athens, OH",2/26/2016 0:00,"Buffalo, NY",2/27/2016 0:00
+720,377,378,379,23750,"Parkersburg, WV","Athens, OH",2/26/2016 0:00,"Buffalo, NY",2/27/2016 0:00
+721,377,377,378,21950,"Corvalis, Oregon","Corvalis, Oregon",2/26/2016 0:00,"Oakland, CA",2/26/2016 0:00
+725,378,379,380,65200,"College Station, TX","College Station, TX",2/27/2016 0:00,"Lexington, KY",2/28/2016 0:00
+732,378,379,380,64029,"Minneapolis, MN",Baltimore/Washington Int'l,2/27/2016 0:00,"Minneapolis, MN",2/28/2016 0:00
+726,378,379,380,51162,"Univ Park, Pa.","East Lansing, Mich.",2/27/2016 0:00,"Univ Park, Pa.",2/28/2016 0:00
+727,378,379,380,40456,Raleigh-Durham,"Clemson, NC",2/27/2016 0:00,"Raleigh, NC",2/28/2016 0:00
+731,378,379,380,39600,"OXFORD, MS","FAYETTEVILLE, AR",2/27/2016 0:00,"FAYETTEVILLE, AR",2/28/2016 0:00
+728,378,379,380,38436,"Minneapolis, MN","Champaign, IL",2/27/2016 0:00,"Minneapolis, MN",2/28/2016 0:00
+724,378,379,380,36246,"Miami, FL","Tallahassee, FL",2/27/2016 0:00,"Miami, FL",2/28/2016 0:00
+729,378,379,380,34980,"Pittsburgh, PA","Louisville, KY",2/27/2016 0:00,"Pittsburgh, PA",2/28/2016 0:00
+730,378,378,379,15304,N/A,"Nashville, TN",2/27/2016 0:00,"Huntington, WV",2/27/2016 0:00
+734,379,381,382,54660,"Boston, MA","South Bend, IN",2/28/2016 0:00,"Boston, MA",3/1/2016 0:00
+735,379,380,381,49516,"Des Moines, IA","Ames, IA",2/28/2016 0:00,"Stillwater, OK",2/29/2016 0:00
+736,379,380,381,49000,"Dallas, TX","Dallas, TX",2/28/2016 0:00,"Topeka, KS",2/29/2016 0:00
+737,379,380,381,43850,"Lubbock, TX","Lubbock, TX",2/28/2016 0:00,"Oklahoma City, OK",2/29/2016 0:00
+738,379,380,381,38436,"Stillwater, OK","Stillwater, OK",2/28/2016 0:00,Manhattan KS,2/29/2016 0:00
+733,379,380,381,36975,"Memphis, TN","Houston, TX",2/28/2016 0:00,"Memphis, TN",2/29/2016 0:00
+739,379,380,381,32371,"Reno, NV","Reno, NV",2/28/2016 0:00,"Fort Collins, CO",2/29/2016 0:00
+740,379,380,381,30736,"Cincinnati, OH","New Orleans, LA",2/28/2016 0:00,"Cincinnati, OH",2/29/2016 0:00
+741,380,381,382,68834,"Lincoln, NE","Lincoln, NE",2/29/2016 0:00,"West Lafayette, IN",3/1/2016 0:00
+743,380,383,384,57900,"Columbia, MO","Jacksonville, FL",2/29/2016 0:00,"Columbia, MO",3/3/2016 0:00
+742,380,381,382,47866,"Cedar Rapids, IA","Iowa City, IA",2/29/2016 0:00,"Bloomington, IN",3/1/2016 0:00
+744,380,381,382,43575,"Columbia, MO","Baton Rouge, LA",2/29/2016 0:00,"Columbia, MO",3/1/2016 0:00
+745,380,381,382,40800,"Charlottesville, VA","Greenville, SC",2/29/2016 0:00,"Charlottesville, VA",3/1/2016 0:00
+746,380,675,676,26018,"Toledo, OH","Buffalo, NY",2/29/2016 0:00,"Toledo, OH",12/20/2016 0:00
+754,381,382,383,67911,LUBBOCK TX,MORGANTOWN,3/1/2016 0:00,LUBBOCK TX,3/2/2016 0:00
+748,381,382,383,67500,"Columbus, GA","Auburn, AL",3/1/2016 0:00,"College Station, TX",3/2/2016 0:00
+749,381,383,384,65561,"Univ Park, Pa.","Indianapolis, Ind.",3/1/2016 0:00,"Univ Park, Pa.",3/3/2016 0:00
+750,381,385,386,62500,"Jacksonville, FL","Jacksonville, FL",3/1/2016 0:00,"Lexington, KY",3/5/2016 0:00
+747,381,382,383,55660,"Miami, FL","South Bend, IN",3/1/2016 0:00,"Miami, FL",3/2/2016 0:00
+753,381,386,387,55521,"Columbus, MS","Jacksonville, FL",3/1/2016 0:00,"Jacksonville, FL",3/6/2016 0:00
+752,381,384,385,48600,"Pittsburgh, PA","Greensboro, NC",3/1/2016 0:00,"Pittsburgh, PA",3/4/2016 0:00
+755,381,382,383,44886,"Boston, MA","Raleigh, NC",3/1/2016 0:00,"Boston, MA",3/2/2016 0:00
+751,381,382,383,44674,"Pittsburgh, PA","Blacksburg, VA",3/1/2016 0:00,"Pittsburgh, PA",3/2/2016 0:00
+757,381,384,385,37670,"Broomfield, CO","Seattle, WA",3/1/2016 0:00,"Broomfield, CO",3/4/2016 0:00
+756,381,381,382,34367,OKC,"Norman, OK",3/1/2016 0:00,"Waco, TX",3/1/2016 0:00
+759,382,383,384,90000,"Windsor Locks, CT","Dallas, TX",3/2/2016 0:00,"Windsor Locks, CT",3/3/2016 0:00
+763,382,389,390,81500,"Knoxville, TN","Jacksonville, FL",3/2/2016 0:00,"Knoxville, TN",3/9/2016 0:00
+758,382,383,384,68000,"Minneapolis, MN","Indianapolis, IN",3/2/2016 0:00,"Minneapolis, MN",3/3/2016 0:00
+760,382,383,384,67899,"Memphis, TN","Philadelphia, PA",3/2/2016 0:00,"Memphis, TN",3/3/2016 0:00
+766,382,383,384,60100,"Houston, TX","Houston, TX",3/2/2016 0:00,"Denton, TX",3/3/2016 0:00
+761,382,386,387,53666,"South Bend, IN","Greensboro, NC",3/2/2016 0:00,"South Bend, IN",3/6/2016 0:00
+762,382,383,384,45926,"Cincinnati, OH","Houston, TX",3/2/2016 0:00,"Cincinnati, OH",3/3/2016 0:00
+765,382,383,384,41186,"Fresno, CA","Fresno, CA",3/2/2016 0:00,"Fort Collins, CO",3/3/2016 0:00
+764,382,382,383,40000,"Tucson, Arizona","Tucson, Arizona",3/2/2016 0:00,"Oakland, CA",3/2/2016 0:00
+770,383,384,385,70622,"Stillwater, OK","Stillwater, OK",3/3/2016 0:00,"Austin, TX",3/4/2016 0:00
+767,383,386,387,62775,"Memphis, TN","Uncasville, CT",3/3/2016 0:00,"Memphis, TN",3/6/2016 0:00
+773,383,386,387,54989,LUBBOCK TX,OKLAHOMA CITY OK,3/3/2016 0:00,LUBBOCK TX,3/6/2016 0:00
+769,383,385,386,53124,"Univ Park, Pa.","Madison, Wisc.",3/3/2016 0:00,"Univ Park, Pa.",3/5/2016 0:00
+771,383,387,388,51899,"Oklahoma City, OK","Oklahoma City, OK",3/3/2016 0:00,"Austin, TX",3/7/2016 0:00
+768,383,386,387,48978,"Minneapolis, MN","Lansing, MI",3/3/2016 0:00,"Minneapolis, MN",3/6/2016 0:00
+772,383,384,385,18470,"Muncie, IN","DeKalb, IL",3/3/2016 0:00,"Muncie, IN",3/4/2016 0:00
+780,384,386,387,74800,"New Orleans, LA","Uncasville, CT",3/4/2016 0:00,"New Orleans, LA",3/6/2016 0:00
+774,384,385,386,72458,Raleigh-Durham,"South Bend, IND",3/4/2016 0:00,"Raleigh, NC",3/5/2016 0:00
+778,384,385,386,54748,"Pittsburgh, PA","Atlanta, GA",3/4/2016 0:00,"Pittsburgh, PA",3/5/2016 0:00
+777,384,385,386,49900,"COLUMBIA, SC","FAYETTEVILLE, AR",3/4/2016 0:00,"COLUMBIA, SC",3/5/2016 0:00
+776,384,385,386,48760,"Anderson, SC","Chestnut Hill, MA",3/4/2016 0:00,"Anderson, SC",3/5/2016 0:00
+775,384,384,385,47465,Raleigh-Durham,"South Bend, IND",3/4/2016 0:00,"Raleigh, NC",3/4/2016 0:00
+782,384,385,386,43021,"Lubbock, TX","Lubbock, TX ",3/4/2016 0:00,Manhattan KS,3/5/2016 0:00
+779,384,386,387,40730,"Tuscaloosa, AL","Athens, GA",3/4/2016 0:00,"Tuscaloosa, AL",3/6/2016 0:00
+781,384,385,386,40640,"Minneapolis, MN","Treton, NJ",3/4/2016 0:00,"Minneapolis, MN",3/5/2016 0:00
+783,384,385,386,35800,"OXFORD, MS","KNOXVILLE, TN",3/4/2016 0:00,"KNOXVILLE, TN",3/5/2016 0:00
+784,385,386,387,62825,"Memphis, TN","Greenville, NC",3/5/2016 0:00,"Memphis, TN",3/6/2016 0:00
+785,385,386,387,46210,"Baltimore, MD","Bloomington, IN",3/5/2016 0:00,"Baltimore, MD",3/6/2016 0:00
+786,385,386,387,39700,"Chicago, IL","Evanston, IL",3/5/2016 0:00,"Lincoln, NE",3/6/2016 0:00
+787,388,390,391,65561,"Univ Park, Pa.","Indianapolis, Ind.",3/8/2016 0:00,"Univ Park, Pa.",3/10/2016 0:00
+788,388,390,391,64028,"Newark, NJ","Indianapolis, IN",3/8/2016 0:00,"Newark, NJ",3/10/2016 0:00
+789,388,393,394,35000,"Columbus, MS","Nashville, TN",3/8/2016 0:00,"Nashville, TN",3/13/2016 0:00
+790,389,393,394,108091,"Windsor Locks, CT","Orlando, FL",3/9/2016 0:00,"Windsor Locks, CT",3/13/2016 0:00
+791,389,393,394,102000,"Nashville, TN","Nashville, TN",3/9/2016 0:00,"College Station, TX",3/13/2016 0:00
+793,389,393,394,56000,"Nashville, TN","Nashville, TN",3/9/2016 0:00,"Lexington, KY",3/13/2016 0:00
+792,389,392,393,39400,"COLUMBIA, SC","NASHVILLE, TN",3/9/2016 0:00,"COLUMBIA, SC",3/12/2016 0:00
+795,390,392,393,52540,"Univ Park, Pa.","Ann Arbor, Mich.",3/10/2016 0:00,"Univ Park, Pa.",3/12/2016 0:00
+794,390,393,394,46502,"Miami, FL","Blacksburg, VA",3/10/2016 0:00,"Miami, FL",3/13/2016 0:00
+796,392,392,393,40500,"Orlando, FL","Orlando, FL",3/12/2016 0:00,"New Orleans, LA",3/12/2016 0:00
+797,395,400,401,46986,LUBBOCK TX,RALEIGH NC,3/15/2016 0:00,LUBBOCK TX,3/20/2016 0:00
+798,395,397,398,32565,"Birmingham, AL","Prov, UT",3/15/2016 0:00,"Birmingham, AL",3/17/2016 0:00
+799,396,399,400,74526,"Univ Park, Pa.","Minneapolis,  Minn.",3/16/2016 0:00,"Univ Park, Pa.",3/19/2016 0:00
+800,396,397,398,23110,"Tallahassee, FL","Valparaio, IN",3/16/2016 0:00,"Tallahassee, FL",3/17/2016 0:00
+801,397,400,401,50580,"Montgomery, AL","Auburn, AL",3/17/2016 0:00,"College Station, TX",3/20/2016 0:00
+802,397,400,401,49450,"Columbia, MO","Gainesville, FL",3/17/2016 0:00,"Columbia, MO",3/20/2016 0:00
+803,401,401,402,42460,"El Paso, TX","El Paso, TX",3/21/2016 0:00,"Columbia, MO",3/21/2016 0:00
+804,403,406,407,40990,"COLUMBIA, SC","OXFORD, MS",3/23/2016 0:00,"COLUMBIA, SC",3/26/2016 0:00
+805,404,407,408,52487,"Athens, GA","Athens, GA",3/24/2016 0:00,"College Station, TX",3/27/2016 0:00
+806,404,406,407,52262,"Athens, GA","Athens, GA",3/24/2016 0:00,"College Station, TX",3/26/2016 0:00
+807,404,407,408,50546,"Charlottesville, VA","Louisville, KY",3/24/2016 0:00,"Charlottesville, VA",3/27/2016 0:00
+808,408,408,409,10796,"Pittsburgh, PA","Nashville, TN",3/28/2016 0:00,"Pittsburgh, PA",3/28/2016 0:00
+809,408,408,409,8017,"Pittsburgh, PA","Nashville, TN",3/28/2016 0:00,"Pittsburgh, PA",3/28/2016 0:00
+811,411,414,415,69700,"Clarksburg, WV","Morgantown, WV",3/31/2016 0:00,"Stillwater, OK",4/3/2016 0:00
+812,411,414,415,55633,"Gainesville, FL","Gainesville, FL",3/31/2016 0:00,"College Station, TX",4/3/2016 0:00
+814,411,414,415,34960,"Tuscaloosa, AL","Gainesville, FL",3/31/2016 0:00,"Tuscaloosa, AL",4/3/2016 0:00
+813,411,413,414,26948,"Lexington, KY","Tuscaloosa, AL",3/31/2016 0:00,"Lexington, KY",4/2/2016 0:00
+810,411,414,415,7130,"Navasota, TX","College Station, TX",3/31/2016 0:00,"Stillwater, OK",4/3/2016 0:00
+815,412,413,414,36835,"South Bend, IN","Syracuse, NY",4/1/2016 0:00,"South Bend, IN",4/2/2016 0:00
+816,415,418,419,66900,LUBBOCK TX,TALLAHASSEE FL,4/4/2016 0:00,STILLWATER OK,4/7/2016 0:00
+818,418,421,422,55938,"Manhattan, KS","Manhattan, KS",4/7/2016 0:00,"Austin, TX",4/10/2016 0:00
+817,418,421,422,53670,"Knoxville, TN","Knoxville, TN",4/7/2016 0:00,"College Station, TX",4/10/2016 0:00
+819,419,421,422,55660,"Miami, FL","South Bend, IN",4/8/2016 0:00,"Miami, FL",4/10/2016 0:00
+820,419,421,422,33575,"Columbus, MS","Gainesville, FL",4/8/2016 0:00,"Gainesville, FL",4/10/2016 0:00
+821,422,422,423,40000,"Baton Rouge, LA","Baton Rouge, LA",4/11/2016 0:00,"Lexington, KY",4/11/2016 0:00
+822,428,428,429,19770,"Roanoke, VA","Blacksburg, VA",4/17/2016 0:00,"South Bend, IN",4/17/2016 0:00
+824,432,435,436,61100,"Charlottesville, VA","Coral Gables, FL",4/21/2016 0:00,"Charlottesville, VA",4/24/2016 0:00
+823,432,435,436,44775,"Columbia, MO","Columbia, SC",4/21/2016 0:00,"Columbia, MO",4/24/2016 0:00
+825,432,434,435,32500,"Univ Park, Pa.","Iowa City, Iowa",4/21/2016 0:00,"Univ Park, Pa.",4/23/2016 0:00
+826,433,436,437,50148,"Columbia, MO","Columbia, MO",4/22/2016 0:00,"College Station, TX",4/25/2016 0:00
+827,434,435,436,9977,"Pittsburgh, PA",Multiple Locations,4/23/2016 0:00,"Pittsburgh, PA",4/24/2016 0:00
+828,435,435,436,31769,"Tallahassee, FL","Tallahassee, FL",4/24/2016 0:00,"South Bend, IN",4/24/2016 0:00
+829,435,435,436,19091,"Gainesville, FL","Gainesville, FL",4/24/2016 0:00,"Starkville, MS",4/24/2016 0:00
+831,438,442,443,33731,"South Bend, IN","Blacksburg, VA",4/27/2016 0:00,"South Bend, IN",5/1/2016 0:00
+830,438,442,443,8988,"Huntsville,TX","Trinity, TX",4/27/2016 0:00,"Stillwater, OK",5/1/2016 0:00
+832,439,442,443,77000,"Newark, NJ","Piscataway, NJ",4/28/2016 0:00,"Lincoln, NE",5/1/2016 0:00
+833,439,442,443,45395,"Fayetteville, ARK","Fayetteville, ARK",4/28/2016 0:00,"College Station, TX",5/1/2016 0:00
+834,439,442,443,40440,"South Bend, IN","Kennesaw, GA",4/28/2016 0:00,"South Bend, IN",5/1/2016 0:00
+835,440,441,442,58050,"Baton Rouge, LA","Baton Rouge, LA",4/29/2016 0:00,"Lexington, KY",4/30/2016 0:00
+836,440,441,442,50762,"Newark, NJ","Columbus, OH",4/29/2016 0:00,"Newark, NJ",4/30/2016 0:00
+837,442,442,443,21770,"Columbus, MS","Starkville, MS",5/1/2016 0:00,"Columbia, MO",5/1/2016 0:00
+838,444,449,450,80000,"Provo, UT","University Park, PA",5/3/2016 0:00,"Provo, UT",5/8/2016 0:00
+839,445,448,449,37600,"Columbia, MO","Starkville, MS",5/4/2016 0:00,"Columbia, MO",5/7/2016 0:00
+841,446,449,450,72632,"Bridgeport, WV","Morgantown, WV",5/5/2016 0:00,"Austin, TX",5/8/2016 0:00
+840,446,449,450,50863,"Columbus, GA","Auburn, AL",5/5/2016 0:00,"College Station, TX",5/8/2016 0:00
+842,446,449,450,43796,LUBBOCK TX,LAWRENCE KS,5/5/2016 0:00,TULSA OK,5/8/2016 0:00
+843,446,449,450,22350,"Starkville, MS","Lexington, KY",5/5/2016 0:00,"Lexington, KY",5/8/2016 0:00
+844,451,452,453,51051,"Columbus, MS","Starkville, MS",5/10/2016 0:00,"College Station, TX",5/11/2016 0:00
+845,451,456,457,47394,"Minneapolis, MN","State College, PA",5/10/2016 0:00,"Minneapolis, MN",5/15/2016 0:00
+847,453,456,457,57000,"Knoxville, TN","Oak Ridge, TN",5/12/2016 0:00,"Oklahoma City, OK",5/15/2016 0:00
+846,453,456,457,55944,"Columbia, SC","Columbia, SC",5/12/2016 0:00,"College Station, TX",5/15/2016 0:00
+848,453,456,457,53742,"South Bend, IN","Tallahassee, FL",5/12/2016 0:00,"Louisville, KY > South Bend, IN",5/15/2016 0:00
+850,459,462,463,50200,"OXFORD, MS","COLLEGE STATION, TX",5/18/2016 0:00,"COLLEGE STATION, TX",5/21/2016 0:00
+849,459,462,463,41724,"Anderson, SC","South Bend, IN",5/18/2016 0:00,"Anderson, SC",5/21/2016 0:00
+852,464,469,470,52628,"Birmingham, AL","Hoover, AL",5/23/2016 0:00,"College Station, TX",5/28/2016 0:00
+851,464,466,467,22900,"Pittsburgh, PA",Multiple Locations,5/23/2016 0:00,"Pittsburgh, PA",5/25/2016 0:00
+853,477,484,485,119293,"Eugene, OR","Eugene, OR",6/5/2016 0:00,"College Station, TX",6/12/2016 0:00
+854,590,591,592,50400,OKLAHOMA CITY OK,NORTHRIDGE CA,9/26/2016 0:00,LUBBOCK TX,9/27/2016 0:00
+855,609,610,611,39885,"State College, PA","State College, PA",10/15/2016 0:00,"West Lafayette, IN",10/16/2016 0:00
+856,623,624,625,38410,LUBBOCK TX,AMES IA,10/29/2016 0:00,LUBBOCK TX,10/30/2016 0:00
+857,627,628,629,28040,"Tuscaloosa, AL","College Station, TX",11/2/2016 0:00,"Tuscaloosa, AL",11/3/2016 0:00
+858,636,637,638,42850,"Toledo, OH","Phildelphia, PA",11/11/2016 0:00,"Toledo, OH",11/12/2016 0:00
+859,637,638,639,22607,"Tuscaloosa, AL","Gainesville, FL",11/12/2016 0:00,"Tuscaloosa, AL",11/13/2016 0:00
+860,640,641,642,34525,DAL,"Lawrence, KS",11/15/2016 0:00,LWC,11/16/2016 0:00
+861,646,648,649,50856,Cincinnati OH,Vermillion SD,11/21/2016 0:00,Milwaukee WI,11/23/2016 0:00
+862,647,647,648,82252,"San Juan, PR",Puerto Rico,11/22/2016 0:00,"Minneapolis, MN",11/22/2016 0:00
+863,650,654,655,73719,Milwaukee WI,Miami FL,11/25/2016 0:00,Milwaukee WI,11/29/2016 0:00
+864,657,658,659,36215,"Columbia, MO","Columbia, MO",12/2/2016 0:00,"Bowling Green, KY",12/3/2016 0:00
+865,662,662,663,23136,"NEWPORT NEWS, VA","NEWPORT NEWS, VA",12/7/2016 0:00,"PHL, PA",12/7/2016 0:00
+866,670,673,674,60290,DAL,"Los Angeles, CA",12/15/2016 0:00,BUR,12/18/2016 0:00
+867,673,674,675,71243,Milwaukee WI,Phoenix AZ,12/18/2016 0:00,Milwaukee WI,12/19/2016 0:00
+868,685,686,687,55624,DAL,"Greenville, NC",12/30/2016 0:00,PGV,12/31/2016 0:00
+869,692,693,694,55624,DAL,"Greenville, NC",1/6/2017 0:00,PGV,1/7/2017 0:00
+871,697,698,699,49573,DAL,"Cincinnati, OH",1/11/2017 0:00,LUK,1/12/2017 0:00
+870,697,697,698,37409,"Philadelphia, PA","Philadelphia, PA",1/11/2017 0:00,"Greenville, NC",1/11/2017 0:00
+872,698,699,700,52000,"Fort Collins, CO","Fort Collins, CO",1/12/2017 0:00,"San Diego, CA",1/13/2017 0:00
+873,703,704,705,46464,"PHL, PA","CINCINNATI, OH",1/17/2017 0:00,"CINCINNATI, OH",1/18/2017 0:00
+874,704,704,705,36616,"HOUSTON, TX","HOUSTON, TX",1/18/2017 0:00,"PHL, PA",1/18/2017 0:00
+875,707,708,709,40870,"Hartford, CT","Hartford, CT",1/21/2017 0:00,"Greenville, NC",1/22/2017 0:00
+876,708,709,710,49900,"Logan, UT","Logan, UT",1/22/2017 0:00,"San Diego, CA",1/23/2017 0:00
+877,710,711,712,52428,DAL,"Orlando, FL",1/24/2017 0:00,MCO,1/25/2017 0:00
+878,713,715,716,63004,"PHL, PA","HOUSTON, TX",1/27/2017 0:00,"HOUSTON, TX",1/29/2017 0:00
+880,717,718,719,52610,"Dallas, TX","Dallas, TX",1/31/2017 0:00,"Greenville, NC",2/1/2017 0:00
+879,717,717,718,52459,"Tulsa, OK","Tulsa, OK",1/31/2017 0:00,"Greenville, NC",1/31/2017 0:00
+881,722,722,723,33133,"NEW ORLEANS, LA","NEW ORLEANS, LA",2/5/2017 0:00,"PHL, PA",2/5/2017 0:00
+882,725,726,727,78704,DAL,"Philadelphia, PA",2/8/2017 0:00,PHL,2/9/2017 0:00
+884,727,728,729,66142,DAL,"Storrs, CT",2/10/2017 0:00,BDL,2/11/2017 0:00
+883,727,727,728,26631,"PHL, PA","GREENVILLE, NC",2/10/2017 0:00,"GREENVILLE, NC",2/10/2017 0:00
+885,728,729,730,46464,"PHL, PA","MEMPHIS, TN",2/11/2017 0:00,"MEMPHIS, TN",2/12/2017 0:00
+887,731,732,733,55605,DAL,"Philadelphia, PA",2/14/2017 0:00,PHL,2/15/2017 0:00
+886,731,732,733,46464,"PHL, PA","GREENVILLE, NC",2/14/2017 0:00,"GREENVILLE, NC",2/15/2017 0:00
+888,732,732,733,44934,"Memphis, TN","Memphis, TN",2/15/2017 0:00,"Greenville, NC",2/15/2017 0:00
+889,737,738,739,46460,"Kenner, LA","New Orleans, LA",2/20/2017 0:00,"Greenville, NC",2/21/2017 0:00
+890,738,739,740,28316,DAL,"Memphis, TN",2/21/2017 0:00,MEM,2/22/2017 0:00
+891,740,741,742,46200,"Laramie, WY","Laramie, WY",2/23/2017 0:00,"San Diego, CA",2/24/2017 0:00
+892,741,742,743,74709,DAL,"Hartford, CT",2/24/2017 0:00,BDL,2/25/2017 0:00
+893,742,743,744,50460,"Tulsa, OK","Tulsa, OK",2/25/2017 0:00,"Greenville, NC",2/26/2017 0:00
+894,746,746,747,29610,"Hartford, CT","Hartford, CT",3/1/2017 0:00,"Greenville, NC",3/1/2017 0:00
+895,811,814,815,40388,"Fayetteville, AR","Gainesville, FL",5/5/2017 0:00,"Fayetteville, AR",5/8/2017 0:00
+896,1049,1050,1051,46200,"Laramie, WY","Laramie, WY",12/29/2017 0:00,"San Diego, CA",12/30/2017 0:00
