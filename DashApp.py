@@ -10,28 +10,20 @@ from urllib.parse import quote as urlquote
 import numpy as np
 import pandas as pd
 import dash_table
+import FlightOptimization as FO
 
-UPLOAD_DIRECTORY =(r"C:\Users\Notandi\Desktop\Hote\FlightOptimization\UploadedFiles")
-if not os.path.exists(UPLOAD_DIRECTORY):
-    os.makedirs(UPLOAD_DIRECTORY)
-
+file_dir =(r"C:\Users\Notandi\Desktop\Hote\FlightOptimization\UploadedFiles")
 df = pd.DataFrame()
+if not os.path.exists(file_dir):
+    os.makedirs(file_dir)
 
 server = Flask(__name__)
 app = dash.Dash(server=server)
 
-@server.route("/download/<path:path>")
-def download(path):
-    """Serve a file from the upload directory."""
-    return send_from_directory(UPLOAD_DIRECTORY, path, as_attachment=True)
-
-
 app.layout = html.Div(
     [
         html.H1("Flight Optimization Tool"),
-        
         html.H2("Upload"),
-        #html.Div([dcc.Input(id='dash_input', value='TEST', type='text')]),
         dcc.Upload(
             id="upload-data",
             children=html.Div(
@@ -49,6 +41,11 @@ app.layout = html.Div(
             },
             multiple=True,
         ),
+        html.Div(children='Select numer of planes'),
+        html.Div([dcc.Input(id='nr_planes', value='1', type='number')]),
+        html.Div(children='Select plane turnaround time'),
+        html.Div([dcc.Input(id='turnaround_time', value='1', type='number')]),
+
         html.H2("Flight List"),
         dash_table.DataTable(
         id='table',
@@ -62,65 +59,45 @@ app.layout = html.Div(
 def save_file(name, content):
     """Decode and store a file uploaded with Plotly Dash."""
     data = content.encode("utf8").split(b";base64,")[1]
-    with open(os.path.join(UPLOAD_DIRECTORY, name), "wb") as fp:
-        
+    with open(os.path.join(file_dir, name), "wb") as fp:
         fp.write(base64.decodebytes(data))
-
-
-def uploaded_files():
-    """List the files in the upload directory."""
-    files = []
-    for filename in os.listdir(UPLOAD_DIRECTORY):
-        path = os.path.join(UPLOAD_DIRECTORY, filename)
-        if os.path.isfile(path):
-            files.append(filename)
-    return files
-
-
-def file_download_link(filename):
-    """Create a Plotly Dash 'A' element that downloads a file from the app."""
-    location = "/download/{}".format(urlquote(filename))
-    return html.A(filename, href=location)
-
 
 @app.callback(
     [Output("table", "columns"), Output("table", "data")],
-    [Input("upload-data", "filename"), Input("upload-data", "contents")],
-
-
+    [Input("upload-data", "filename"), Input("upload-data", "contents"), Input("nr_planes", "value"), Input("turnaround_time", "value")],
 )
 
-def update_output(uploaded_filenames, uploaded_file_contents):
+def update_output(uploaded_filenames, uploaded_file_contents, nr_planes_value, turnaround_time_value):
     """Save uploaded files and regenerate the file list."""
-    mydir = r"C:\Users\Notandi\Desktop\Hote\FlightOptimization\UploadedFiles"
 
     if uploaded_filenames is not None and uploaded_file_contents is not None:
         for name, data in zip(uploaded_filenames, uploaded_file_contents):
             if name.endswith('.csv'):
+                for f in os.listdir(file_dir):
+                    print(f)
+                    os.remove(os.path.join(file_dir, f))
                 print('CSV file uploaded')
-                save_file(name, data)                
+                save_file(name, data)
             else:
                 print('Not a CSV file!')
-    files = os.listdir(mydir)
+
+    files = os.listdir(file_dir)
+
     if len(files) == 0:
         df = pd.DataFrame()
         columns=[{"name": i, "id": i} for i in df.columns]
         data=df.to_dict('records')
 
-    else: 
+    else:
         for f in files:
             if f.endswith('.csv'):
-                df = pd.read_csv(os.path.join(mydir, f))
+                df = pd.read_csv(os.path.join(file_dir, f))
+                df = FO.solve(df,int(nr_planes_value),int(turnaround_time_value))
+                df = df[['Plane Number', 'Revenue']]
                 columns=[{"name": i, "id": i} for i in df.columns]
                 data=df.to_dict('records')
-        
-        for f in files:
-            print(f)
-            os.remove(os.path.join(mydir, f))
 
-
-    
-    return columns, data    
+    return columns, data
 
 if __name__ == '__main__':
     app.run_server(debug=True)
