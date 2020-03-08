@@ -123,7 +123,7 @@ def solve(df, nr_planes, TurnaroundTime):
             G = removeLongestPath(G)
             G, rem_flights = LoadDataIntoGraph(G, rem_flights)
             G = addWaitEdges(G)
-            solution_df = solution_df.append({'Path': path, 'Revenue': path_revenue, 'Plane Number': plane_nr}, ignore_index=True)
+            solution_df = solution_df.append({'Path': path, 'Revenue': path_revenue, 'Plane Number': 'Plane ' + str(plane_nr)}, ignore_index=True)
 
     return solution_df[['Plane Number', 'Revenue', 'Path']]
 
