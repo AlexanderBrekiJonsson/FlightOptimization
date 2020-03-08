@@ -85,6 +85,9 @@ def isRightFormat(df):
     if set(df_cols).issuperset(std_cols): return True
     else: return False
 
+def flights_in_path(df, flightlist):
+    return df[df['FlightNumber'].isin(flightlist)]
+
 def prepare_df(df, TurnaroundTime):
     new_df = df
     new_df['FlightNumber'] = new_df.index

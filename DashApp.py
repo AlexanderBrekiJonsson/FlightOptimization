@@ -11,9 +11,19 @@ import numpy as np
 import pandas as pd
 import dash_table
 import FlightOptimization as FO
+import plotly.graph_objects as go
+import plotly.figure_factory as ff
 
 file_dir =(r"C:\Users\Notandi\Desktop\Hote\FlightOptimization\UploadedFiles")
-df = pd.DataFrame()
+df = pd.DataFrame({'Revenue':[0], 'Plane Number':[0]})
+
+df_gantt = pd.read_csv('test.csv')
+df_gantt['Task'] = df_gantt['FlightNumber']
+df_gantt['Start'] = df_gantt['departureDate']
+df_gantt['Finish'] = df_gantt['returnDate']
+df_gantt['Resource'] = 'Plane 1'
+df_gantt = df_gantt.sort_values(by='Start', ascending=False)
+
 if not os.path.exists(file_dir):
     os.makedirs(file_dir)
 
@@ -52,8 +62,21 @@ app.layout = html.Div(
         columns=[{"name": i, "id": i} for i in df.columns],
         data=df.to_dict('records'),
         ),
+        dcc.Graph(
+        id='example-graph',
+        figure={
+            'data': [
+                {'y': df['Revenue'].tolist(), 'x': df['Plane Number'].tolist(), 'type': 'bar', 'name': 'SF'},
+            ],
+            'layout': {
+                'title': 'Dash Data Visualization'
+            }
+        }
+        ),
+        dcc.Graph(id='Gantt', figure= ff.create_gantt(df_gantt, index_col='Resource', show_colorbar=True,bar_width=1.5)),
+
     ],
-    style={"max-width": "500px"},
+    style={"max-width": "1000px"},
 )
 
 def save_file(name, content):
@@ -62,8 +85,9 @@ def save_file(name, content):
     with open(os.path.join(file_dir, name), "wb") as fp:
         fp.write(base64.decodebytes(data))
 
+
 @app.callback(
-    [Output("table", "columns"), Output("table", "data")],
+    [Output("table", "columns"), Output("table", "data"), Output("example-graph", "figure"), Output("Gantt","figure")],
     [Input("upload-data", "filename"), Input("upload-data", "contents"), Input("nr_planes", "value"), Input("turnaround_time", "value")],
 )
 
@@ -84,20 +108,57 @@ def update_output(uploaded_filenames, uploaded_file_contents, nr_planes_value, t
     files = os.listdir(file_dir)
 
     if len(files) == 0:
-        df = pd.DataFrame()
+        df = pd.DataFrame({'Revenue':[0], 'Plane Number':[0]})
         columns=[{"name": i, "id": i} for i in df.columns]
         data=df.to_dict('records')
+        figure={
+            'data': [
+                {'y': df['Revenue'].tolist(), 'x': df['Plane Number'].tolist(), 'type': 'bar', 'name': 'SF'},
+            ],
+            'layout': {
+                'title': 'Dash Data Visualization'
+            }
+        }
+        df_gantt = pd.read_csv('test.csv')
+        df_gantt['Task'] = df_gantt['FlightNumber']
+        df_gantt['Start'] = df_gantt['departureDate']
+        df_gantt['Finish'] = df_gantt['returnDate']
+        df_gantt['Resource'] = 'Plane 1'
+        df_gantt = df_gantt.sort_values(by='Start', ascending=False)
+        g_figure = ff.create_gantt(df_gantt, index_col='Resource', show_colorbar=True,bar_width=1.5)
 
     else:
         for f in files:
             if f.endswith('.csv'):
                 df = pd.read_csv(os.path.join(file_dir, f))
-                df = FO.solve(df,int(nr_planes_value),int(turnaround_time_value))
-                df = df[['Plane Number', 'Revenue']]
-                columns=[{"name": i, "id": i} for i in df.columns]
-                data=df.to_dict('records')
+                df_solved = FO.solve(df,int(nr_planes_value),int(turnaround_time_value))
+                columns=[{"name": i, "id": i} for i in df_solved.columns]
 
-    return columns, data
+                df_gantt = pd.DataFrame()
+                plane = 1
+                for path in df_solved['Path'].head().tolist():
+                    df_flightpath = df[df['FlightNumber'].isin(path)]
+                    df_flightpath['Resource'] = 'Plane ' + str(plane)
+                    plane = plane +1
+
+                    df_flightpath['Task'] = df_flightpath['FlightNumber']
+                    df_flightpath['Start'] = df_flightpath['departureDate']
+                    df_flightpath['Finish'] = df_flightpath['returnDate']
+                    df_flightpath = df_flightpath.sort_values(by='Start', ascending=False)
+                    df_gantt = df_gantt.append(df_flightpath, ignore_index=True)
+                g_figure = ff.create_gantt(df_gantt, index_col='Resource', show_colorbar=True,bar_width=1.5)
+                data=df_solved[['Plane Number', 'Revenue']].to_dict('records')
+                figure={
+                    'data': [
+                        {'y': df_solved['Revenue'].tolist(), 'x': df_solved['Plane Number'].tolist(), 'type': 'bar', 'name': 'SF'},
+                    ],
+                    'layout': {
+                        'title': 'Dash Data Visualization'
+                    }
+                }
+
+    return columns, data, figure, g_figure
+
 
 if __name__ == '__main__':
     app.run_server(debug=True)
